@@ -1,0 +1,17 @@
+file                     format  type   num_seqs      sum_len  min_len  avg_len  max_len
+./ERR6913112_1.fastq.gz  FASTQ   DNA      31,722    4,047,305       35    127.6      151
+./ERR6913112_2.fastq.gz  FASTQ   DNA      31,722    4,047,319       35    127.6      151
+./ERR6913113_1.fastq.gz  FASTQ   DNA     111,922   11,520,881       35    102.9      151
+./ERR6913113_2.fastq.gz  FASTQ   DNA     111,922   11,521,042       35    102.9      151
+./ERR6913122_1.fastq.gz  FASTQ   DNA     372,663   40,416,295       35    108.5      151
+./ERR6913122_2.fastq.gz  FASTQ   DNA     372,663   40,412,646       35    108.4      151
+./ERR6913208_1.fastq.gz  FASTQ   DNA      54,613    6,850,428       35    125.4      151
+./ERR6913208_2.fastq.gz  FASTQ   DNA      54,613    6,851,170       35    125.4      151
+./ERR6913209_1.fastq.gz  FASTQ   DNA      14,007    1,300,838       35     92.9      151
+./ERR6913209_2.fastq.gz  FASTQ   DNA      14,007    1,300,711       35     92.9      151
+./ERR6913218_1.fastq.gz  FASTQ   DNA     143,191   15,956,759       35    111.4      151
+./ERR6913218_2.fastq.gz  FASTQ   DNA     143,191   15,954,966       35    111.4      151
+./ERR6913320_1.fastq.gz  FASTQ   DNA     936,997  118,507,838       35    126.5      151
+./ERR6913320_2.fastq.gz  FASTQ   DNA     936,997  118,502,860       35    126.5      151
+./ERR6913349_1.fastq.gz  FASTQ   DNA   1,596,598  205,357,574       35    128.6      151
+./ERR6913349_2.fastq.gz  FASTQ   DNA   1,596,598  205,344,707       35    128.6      151

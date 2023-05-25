@@ -1,0 +1,16 @@
+seqID	patternName	pattern	strand	start	end	matched
+seqID	patternName	pattern	strand	start	end	matched
+seqID	patternName	pattern	strand	start	end	matched
+seqID	patternName	pattern	strand	start	end	matched
+seqID	patternName	pattern	strand	start	end	matched
+seqID	patternName	pattern	strand	start	end	matched
+seqID	patternName	pattern	strand	start	end	matched
+seqID	patternName	pattern	strand	start	end	matched
+seqID	patternName	pattern	strand	start	end	matched
+seqID	patternName	pattern	strand	start	end	matched
+seqID	patternName	pattern	strand	start	end	matched
+seqID	patternName	pattern	strand	start	end	matched
+seqID	patternName	pattern	strand	start	end	matched
+seqID	patternName	pattern	strand	start	end	matched
+seqID	patternName	pattern	strand	start	end	matched
+seqID	patternName	pattern	strand	start	end	matched

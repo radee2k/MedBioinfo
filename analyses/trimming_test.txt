@@ -1,0 +1,110 @@
+./ERR6913112_1.fastq.gz
+seqID	patternName	pattern	strand	start	end	matched
+./ERR6913112_2.fastq.gz
+seqID	patternName	pattern	strand	start	end	matched
+./ERR6913113_1.fastq.gz
+./ERR6913113_2.fastq.gz
+seqID	patternName	pattern	strand	start	end	matched
+./ERR6913122_1.fastq.gz
+./ERR6913122_2.fastq.gz
+./ERR6913208_1.fastq.gz
+./ERR6913208_2.fastq.gz
+./ERR6913209_1.fastq.gz
+./ERR6913209_2.fastq.gz
+./ERR6913218_1.fastq.gz
+./ERR6913218_2.fastq.gz
+./ERR6913320_1.fastq.gz
+./ERR6913320_2.fastq.gz
+./ERR6913349_1.fastq.gz
+./ERR6913349_2.fastq.gz
+./ERR6913112_1.fastq.gz
+seqID	patternName	pattern	strand	start	end	matched
+./ERR6913112_2.fastq.gz
+seqID	patternName	pattern	strand	start	end	matched
+./ERR6913113_1.fastq.gz
+./ERR6913113_2.fastq.gz
+./ERR6913122_1.fastq.gz
+./ERR6913122_2.fastq.gz
+./ERR6913208_1.fastq.gz
+./ERR6913208_2.fastq.gz
+./ERR6913209_1.fastq.gz
+./ERR6913209_2.fastq.gz
+./ERR6913218_1.fastq.gz
+./ERR6913218_2.fastq.gz
+./ERR6913320_1.fastq.gz
+./ERR6913320_2.fastq.gz
+./ERR6913349_1.fastq.gz
+./ERR6913349_2.fastq.gz
+./ERR6913112_1.fastq.gz
+seqID	patternName	pattern	strand	start	end	matched
+./ERR6913112_2.fastq.gz
+seqID	patternName	pattern	strand	start	end	matched
+./ERR6913113_1.fastq.gz
+./ERR6913113_2.fastq.gz
+./ERR6913122_1.fastq.gz
+./ERR6913122_2.fastq.gz
+./ERR6913208_1.fastq.gz
+./ERR6913208_2.fastq.gz
+./ERR6913209_1.fastq.gz
+./ERR6913209_2.fastq.gz
+seqID	patternName	pattern	strand	start	end	matched
+./ERR6913218_1.fastq.gz
+./ERR6913112_1.fastq.gz
+seqID	patternName	pattern	strand	start	end	matched
+./ERR6913112_2.fastq.gz
+seqID	patternName	pattern	strand	start	end	matched
+./ERR6913113_1.fastq.gz
+./ERR6913113_2.fastq.gz
+./ERR6913122_1.fastq.gz
+./ERR6913112_1.fastq.gz
+./ERR6913112_2.fastq.gz
+./ERR6913113_1.fastq.gz
+./ERR6913113_2.fastq.gz
+./ERR6913122_1.fastq.gz
+./ERR6913122_2.fastq.gz
+./ERR6913208_1.fastq.gz
+./ERR6913208_2.fastq.gz
+./ERR6913209_1.fastq.gz
+./ERR6913209_2.fastq.gz
+./ERR6913218_1.fastq.gz
+./ERR6913218_2.fastq.gz
+./ERR6913320_1.fastq.gz
+./ERR6913320_2.fastq.gz
+./ERR6913349_1.fastq.gz
+./ERR6913349_2.fastq.gz
+./ERR6913112_1.fastq.gz
+./ERR6913112_2.fastq.gz
+./ERR6913113_1.fastq.gz
+./ERR6913113_2.fastq.gz
+./ERR6913122_1.fastq.gz
+./ERR6913122_2.fastq.gz
+./ERR6913208_1.fastq.gz
+./ERR6913208_2.fastq.gz
+./ERR6913209_1.fastq.gz
+./ERR6913209_2.fastq.gz
+./ERR6913218_1.fastq.gz
+./ERR6913218_2.fastq.gz
+./ERR6913320_1.fastq.gz
+./ERR6913320_2.fastq.gz
+./ERR6913349_1.fastq.gz
+./ERR6913349_2.fastq.gz
+./ERR6913112_1.fastq.gz
+seqID	patternName	pattern	strand	start	end	matched
+./ERR6913112_2.fastq.gz
+seqID	patternName	pattern	strand	start	end	matched
+./ERR6913113_1.fastq.gz
+./ERR6913113_2.fastq.gz
+./ERR6913122_1.fastq.gz
+./ERR6913122_2.fastq.gz
+./ERR6913112_1.fastq.gz
+seqID	patternName	pattern	strand	start	end	matched
+./ERR6913112_2.fastq.gz
+seqID	patternName	pattern	strand	start	end	matched
+./ERR6913113_1.fastq.gz
+./ERR6913113_2.fastq.gz
+./ERR6913122_1.fastq.gz
+./ERR6913122_2.fastq.gz
+seqID	patternName	pattern	strand	start	end	matched
+seqID	patternName	pattern	strand	start	end	matched
+seqID	patternName	pattern	strand	start	end	matched
+seqID	patternName	pattern	strand	start	end	matched
