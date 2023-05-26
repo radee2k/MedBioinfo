@@ -100,3 +100,26 @@ srun bowtie2-build -f data/reference_seqs/PhiX_NC_001422.fna data/bowtie2_DBs/Ph
 # run the alignment of merged reads with PhiX spike in
 
 srun -t 20 -c 10 bowtie2 -p 10 --no-unal -S analyses/bowtie/rgrochowski_merged2PhiX.sam -x data/bowtie2_DBs/PhiX_bowtie2_DB -U data/merged_pairs/*extendedFrags.fastq  2>&1 | tee -a analyses/bowtie/rgrochowski_bowtie2_PhiX.log
+
+# No reads were found to align to PhiX phage's genome.
+
+# Download the reference for SARS-CoV-2
+
+efetch -db nuccore -id NC_045512 -format fasta > data/reference_seqs/sc2_NC_045512.fna
+
+srun bowtie2-build -f data/reference_seqs/sc2_NC_045512.fna data/bowtie2_DBs/sc2_bowtie2_DB
+
+# Align patient's reads to the SARS-CoV-2 reference
+
+srun -t 20 -c 10 bowtie2 -p 10 --no-unal -S analyses/bowtie/rgrochowski_merged2sc2.sam -x data/bowtie2_DBs/sc2_bowtie2_DB -U data/merged_pairs/*extendedFrags.fastq  2>&1 | tee -a analyses/bowtie/rgrochowski_bowtie2_sc2.log
+
+# 2284 (0.08%) sequences aligned exactly 1 time indicating presence of SC2 genome in the sample.
+
+samtools view -bh analyses/bowtie/rgrochowski_merged2sc2.sam > analyses/bowtie/rgrochowski_merged2sc2.bam
+
+# prepare the file to be viewed with tview
+
+# Upon inspection with tview, the reads are appear well aligned and across all the viral genome.
+samtools sort analyses/bowtie/rgrochowski_merged2sc2.bam >| analyses/bowtie/rgrochowski_merged2sc2_sort.bam
+samtools tview analyses/bowtie/rgrochowski_merged2sc2_sort_index.bam
+# samtools tview analyses/bowtie/rgrochowski_merged2sc2_sort.bam data/reference_seqs/sc2_NC_045512.fna
