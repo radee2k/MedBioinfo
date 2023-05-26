@@ -70,3 +70,18 @@ srun -t 30 -c 4 seqkit locate -j 4 ./*.gz -p GAGCACACGTCTGAACTCCAGTCA,GAGCGTCGTG
 
  srun -t 30 -c 4 fastqc --noextract -o analyses/fastqc/ -t 4 data/sra_fastq/ERR6913122_1.fastq.gz data/sra_fastq/ERR6913122_2.fastq.gz
 /n srun -t 30 -c 4 xargs -a analyses/rgrochowski_run_accessions.txt -I {} fastqc --noextract -o analyses/fastqc/ -t 4 data/sra_fastq/{}_1.fastq.gz data/sra_fastq/{}_2.fastq.gz
+
+module load flash2
+
+srun -t 30 -c 2 xargs -a analyses/rgrochowski_run_accessions.txt -I {} flash2 -t 2 -d data/merged_pairs/ -M 151  -o {}.flash data/sra_fastq/{}_1.fastq.gz data/sra_fastq/{}_2.fastq.gz 2>&1 | tee -a analyses/rgrochowski_flash2.log
+
+srun -t 30 -c 2 flash2 -t 2 -d data/merged_pairs/ -M 90  -o ERR6913112.flash data/sra_fastq/ERR6913112_1.fastq.gz data/sra_fastq/ERR6913112_2.fastq.gz 2>&1 | tee -a analyses/rgrochowski_flash2.log
+
+srun -t 30 -c 2 flash2 -d data/merged_pairs/ -o ERR6913112.flash data/sra_fastq/ERR6913112_1.fastq.gz data/sra_fastq/ERR6913112_2.fastq.gz 2>&1 | tee -a analyses/rgrochowski_flash2.log
+
+# this time 88% of pairs were merged which indicated, that the library size wasn't appropriate for paired-end sequencing. 
+
+# around 13% of reads had an overlap lower than the maximum set as the default, it was hence changed with -M parameter
+# less data/merged_pairs/ERR6913112.flash.histogram - histogram of the reads reinforces this statement
+
+seqkit stat data/merged_pairs/ERR6913112.flash.extendedFrags.fastq

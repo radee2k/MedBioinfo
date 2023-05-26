@@ -1,0 +1,4 @@
+srun: job 33560746 queued and waiting for resources
+srun: job 33560746 has been allocated resources
+slurmstepd: error: execve(): bowtie: No such file or directory
+srun: error: cpu-node-19: task 0: Exited with exit code 2
