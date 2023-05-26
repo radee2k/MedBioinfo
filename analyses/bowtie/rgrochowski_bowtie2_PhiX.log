@@ -2,3 +2,31 @@ srun: job 33560746 queued and waiting for resources
 srun: job 33560746 has been allocated resources
 slurmstepd: error: execve(): bowtie: No such file or directory
 srun: error: cpu-node-19: task 0: Exited with exit code 2
+srun: job 33560773 queued and waiting for resources
+srun: job 33560773 has been allocated resources
+slurmstepd: error: execve(): bowtie: No such file or directory
+srun: error: cpu-node-30: task 0: Exited with exit code 2
+srun: job 33560775 queued and waiting for resources
+srun: job 33560775 has been allocated resources
+slurmstepd: error: execve(): bowtie: No such file or directory
+srun: error: cpu-node-30: task 0: Exited with exit code 2
+srun: job 33560778 queued and waiting for resources
+srun: job 33560778 has been allocated resources
+(ERR): "data/reference_seqs/PhiX_NC_001422.fna" does not exist or is not a Bowtie 2 index
+Exiting now ...
+srun: error: cpu-node-30: task 0: Exited with exit code 255
+srun: job 33560779 queued and waiting for resources
+srun: job 33560779 has been allocated resources
+Warning: Output file 'data/' was specified without -S.  This will not work in future Bowtie 2 versions.  Please use -S instead.
+Error: Could not open alignment output file data/
+terminate called without an active exception
+(ERR): bowtie2-align died with signal 6 (ABRT) (core dumped)
+srun: error: cpu-node-30: task 0: Exited with exit code 1
+srun: job 33560781 queued and waiting for resources
+srun: job 33560781 has been allocated resources
+2752527 reads; of these:
+  2752527 (100.00%) were unpaired; of these:
+    2752527 (100.00%) aligned 0 times
+    0 (0.00%) aligned exactly 1 time
+    0 (0.00%) aligned >1 times
+0.00% overall alignment rate

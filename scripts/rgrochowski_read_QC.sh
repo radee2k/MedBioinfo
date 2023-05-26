@@ -85,3 +85,18 @@ srun -t 30 -c 2 flash2 -d data/merged_pairs/ -o ERR6913112.flash data/sra_fastq/
 # less data/merged_pairs/ERR6913112.flash.histogram - histogram of the reads reinforces this statement
 
 seqkit stat data/merged_pairs/ERR6913112.flash.extendedFrags.fastq
+
+# setup bowtie2 alignment and download the reference for PhiX phage libraries were spiked with
+
+
+# setup bowtie2 alignment and download the reference for PhiX phage libraries were spiked
+
+efetch -db nuccore -id NC_001422 -format fasta > data/reference_seqs/PhiX_NC_001422.fna
+
+# create an bowtie2 index database
+
+srun bowtie2-build -f data/reference_seqs/PhiX_NC_001422.fna data/bowtie2_DBs/PhiX_bowtie2_DB
+
+# run the alignment of merged reads with PhiX spike in
+
+srun -t 20 -c 10 bowtie2 -p 10 --no-unal -S analyses/bowtie/rgrochowski_merged2PhiX.sam -x data/bowtie2_DBs/PhiX_bowtie2_DB -U data/merged_pairs/*extendedFrags.fastq  2>&1 | tee -a analyses/bowtie/rgrochowski_bowtie2_PhiX.log
