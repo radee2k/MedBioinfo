@@ -1,0 +1,20 @@
+Module	Section	Sample Name	Source
+Bowtie 2 / HiSAT2	all_sections	rgrochowski_bowtie2_sc2	/shared/ifbstor1/projects/2314_medbioinfo/radoslaw/MedBioinfo/analyses/bowtie/rgrochowski_bowtie2_sc2.log
+Bowtie 2 / HiSAT2	all_sections	rgrochowski_bowtie2_PhiX	/shared/ifbstor1/projects/2314_medbioinfo/radoslaw/MedBioinfo/analyses/bowtie/rgrochowski_bowtie2_PhiX.log
+FastQC	all_sections	ERR6913208_2	/shared/ifbstor1/projects/2314_medbioinfo/radoslaw/MedBioinfo/analyses/fastqc/ERR6913208_2_fastqc.zip
+FastQC	all_sections	ERR6913218_2	/shared/ifbstor1/projects/2314_medbioinfo/radoslaw/MedBioinfo/analyses/fastqc/ERR6913218_2_fastqc.zip
+FastQC	all_sections	ERR6913112_1	/shared/ifbstor1/projects/2314_medbioinfo/radoslaw/MedBioinfo/analyses/fastqc/ERR6913112_1_fastqc.zip
+FastQC	all_sections	ERR6913320_2	/shared/ifbstor1/projects/2314_medbioinfo/radoslaw/MedBioinfo/analyses/fastqc/ERR6913320_2_fastqc.zip
+FastQC	all_sections	ERR6913112_2	/shared/ifbstor1/projects/2314_medbioinfo/radoslaw/MedBioinfo/analyses/fastqc/ERR6913112_2_fastqc.zip
+FastQC	all_sections	ERR6913209_1	/shared/ifbstor1/projects/2314_medbioinfo/radoslaw/MedBioinfo/analyses/fastqc/ERR6913209_1_fastqc.zip
+FastQC	all_sections	ERR6913209_2	/shared/ifbstor1/projects/2314_medbioinfo/radoslaw/MedBioinfo/analyses/fastqc/ERR6913209_2_fastqc.zip
+FastQC	all_sections	ERR6913122_1	/shared/ifbstor1/projects/2314_medbioinfo/radoslaw/MedBioinfo/analyses/fastqc/ERR6913122_1_fastqc.zip
+FastQC	all_sections	ERR6913122_2	/shared/ifbstor1/projects/2314_medbioinfo/radoslaw/MedBioinfo/analyses/fastqc/ERR6913122_2_fastqc.zip
+FastQC	all_sections	ERR6913349_1	/shared/ifbstor1/projects/2314_medbioinfo/radoslaw/MedBioinfo/analyses/fastqc/ERR6913349_1_fastqc.zip
+FastQC	all_sections	ERR6913113_2	/shared/ifbstor1/projects/2314_medbioinfo/radoslaw/MedBioinfo/analyses/fastqc/ERR6913113_2_fastqc.zip
+FastQC	all_sections	ERR6913218_1	/shared/ifbstor1/projects/2314_medbioinfo/radoslaw/MedBioinfo/analyses/fastqc/ERR6913218_1_fastqc.zip
+FastQC	all_sections	ERR6913349_2	/shared/ifbstor1/projects/2314_medbioinfo/radoslaw/MedBioinfo/analyses/fastqc/ERR6913349_2_fastqc.zip
+FastQC	all_sections	ERR6913320_1	/shared/ifbstor1/projects/2314_medbioinfo/radoslaw/MedBioinfo/analyses/fastqc/ERR6913320_1_fastqc.zip
+FastQC	all_sections	ERR6913208_1	/shared/ifbstor1/projects/2314_medbioinfo/radoslaw/MedBioinfo/analyses/fastqc/ERR6913208_1_fastqc.zip
+FastQC	all_sections	ERR6913113_1	/shared/ifbstor1/projects/2314_medbioinfo/radoslaw/MedBioinfo/analyses/fastqc/ERR6913113_1_fastqc.zip
+FLASh	all_sections	rgrochowski_flash2	/shared/ifbstor1/projects/2314_medbioinfo/radoslaw/MedBioinfo/analyses/rgrochowski_flash2.log
