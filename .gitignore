@@ -6,6 +6,7 @@ data
 
 # too big for an upload + intermediate
 analyses/kraken2/all/*kraken2.out 
+analyses/kraken2/kraken2.out
 
 # those seems to be a mistake from the nf-training
 nf-training
