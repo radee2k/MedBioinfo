@@ -1,0 +1,5 @@
+Loading database information... done.
+111922 sequences (23.04 Mbp) processed in 0.761s (8819.8 Kseq/m, 1815.77 Mbp/m).
+  20351 sequences classified (18.18%)
+  91571 sequences unclassified (81.82%)
+>> Checking report file: /shared/ifbstor1/projects/2314_medbioinfo/radoslaw/MedBioinfo/analyses/kraken2/all/ERR6913113_kraken2_report.tsv

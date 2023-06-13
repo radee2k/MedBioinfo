@@ -1,0 +1,38 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Moraxella nonliquefaciens	478	S	1707	18262	19969	0.43645
+Moraxella catarrhalis	480	S	404	3439	3843	0.08399
+Moraxella bovoculi	386891	S	79	6651	6730	0.14709
+Moraxella bovis	476	S	25	323	348	0.00761
+Moraxella sp. ZY201224	2904122	S	12	51	63	0.00138
+Moraxella osloensis	34062	S	18	466	484	0.01058
+Acinetobacter baumannii	470	S	26	373	399	0.00872
+Aquirhabdus parva	2283318	S	11	18	29	0.00063
+Klebsiella quasipneumoniae	1463165	S	53	88	141	0.00308
+Klebsiella pneumoniae	573	S	13	401	414	0.00905
+Salmonella enterica	28901	S	46	4044	4090	0.08939
+Escherichia coli	562	S	24	1027	1051	0.02297
+Pseudomonas aeruginosa	287	S	14	853	867	0.01895
+Pseudomonas fluorescens	294	S	10	2	12	0.00026
+Xanthomonas campestris	339	S	22	4	26	0.00057
+Halomonas sp. JS92-SW72	2306583	S	16	2	18	0.00039
+Candidatus Baumannia cicadellinicola	186490	S	10	1	11	0.00024
+Burkholderia multivorans	87883	S	24	92	116	0.00254
+Aquella oligotrophica	2067065	S	11	12	23	0.00050
+Mesorhizobium terrae	2725666	S	20	52	72	0.00157
+Bradyrhizobium sp. SK17	2057741	S	13	20	33	0.00072
+Dolosigranulum pigrum	29394	S	3033	254	3287	0.07184
+Enterococcus cecorum	44008	S	26	7	33	0.00072
+Bacillus velezensis	492670	S	12	36	48	0.00105
+Staphylococcus hominis	1290	S	12	3	15	0.00033
+Corynebacterium pseudodiphtheriticum	37637	S	995	524	1519	0.03320
+Corynebacterium propinquum	43769	S	79	42	121	0.00264
+Corynebacterium segmentosum	43990	S	29	194	223	0.00487
+Corynebacterium accolens	38284	S	16	105	121	0.00264
+Cutibacterium acnes	1747	S	145	10	155	0.00339
+Kocuria rhizophila	72000	S	30	9	39	0.00085
+Synechococcus sp. PCC 7502	1173263	S	11	38	49	0.00107
+Phaeodactylum tricornutum	2850	S	108	4	112	0.00245
+Thalassiosira pseudonana	35128	S	84	10	94	0.00205
+Homo sapiens	9606	S	195	7	202	0.00442
+Malassezia restricta	76775	S	11	2	13	0.00028
+Severe acute respiratory syndrome-related coronavirus	694009	S	968	0	968	0.02116

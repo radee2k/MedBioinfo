@@ -1,0 +1,2 @@
+slurmstepd: error: *** JOB 33600927 ON cpu-node-78 CANCELLED AT 2023-05-31T12:07:27 ***
+Loading database information...slurmstepd: error: *** STEP 33600927.0 ON cpu-node-78 CANCELLED AT 2023-05-31T12:07:27 ***

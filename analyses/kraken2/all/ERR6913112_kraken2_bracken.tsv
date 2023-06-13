@@ -1,0 +1,82 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Streptococcus oralis	1303	S	315	139	454	0.04101
+Streptococcus sp. LPB0220	2610896	S	64	14	78	0.00705
+Streptococcus sp. HSISM1	1316408	S	50	10	60	0.00542
+Streptococcus sp. oral taxon 064	712624	S	14	21	35	0.00316
+Streptococcus sp. oral taxon 061	712623	S	11	1	12	0.00108
+Streptococcus salivarius	1304	S	171	60	231	0.02087
+Streptococcus mitis	28037	S	135	24	159	0.01436
+Streptococcus intermedius	1338	S	106	32	138	0.01246
+Streptococcus vestibularis	1343	S	69	10	79	0.00714
+Streptococcus parasanguinis	1318	S	59	9	68	0.00614
+Streptococcus gordonii	1302	S	57	2	59	0.00533
+Streptococcus pneumoniae	1313	S	25	17	42	0.00379
+Streptococcus mutans	1309	S	24	1	25	0.00226
+Streptococcus infantis	68892	S	21	2	23	0.00208
+Streptococcus gwangjuense	1433513	S	17	5	22	0.00199
+Streptococcus pseudopneumoniae	257758	S	11	3	14	0.00126
+Dolosigranulum pigrum	29394	S	514	4	518	0.04679
+Granulicatella adiacens	46124	S	21	0	21	0.00190
+Ligilactobacillus salivarius	1624	S	103	10	113	0.01021
+Limosilactobacillus portuensis	2742601	S	48	9	57	0.00515
+Limosilactobacillus fermentum	1613	S	11	3	14	0.00126
+Lactobacillus gasseri	1596	S	24	9	33	0.00298
+Lactobacillus crispatus	47770	S	13	0	13	0.00117
+Enterococcus cecorum	44008	S	47	1	48	0.00434
+Staphylococcus epidermidis	1282	S	33	13	46	0.00415
+Veillonella parvula	29466	S	240	5	245	0.02213
+Veillonella atypica	39777	S	112	2	114	0.01030
+Veillonella nakazawae	2682456	S	112	33	145	0.01310
+Veillonella dispar	39778	S	78	10	88	0.00795
+Veillonella sp. S12025-13	2682455	S	65	15	80	0.00723
+Veillonella rogosae	423477	S	51	2	53	0.00479
+Selenomonas sputigena	69823	S	18	1	19	0.00172
+Actinomyces oris	544580	S	320	149	469	0.04236
+Actinomyces sp. oral taxon 169	712116	S	97	42	139	0.01256
+Actinomyces sp. HMT 175	2789425	S	59	71	130	0.01174
+Actinomyces sp. oral taxon 171	706438	S	27	3	30	0.00271
+Actinomyces viscosus	1656	S	28	1	29	0.00262
+Actinomyces naeslundii	1655	S	27	1	28	0.00253
+Actinomyces pacaensis	1852377	S	11	0	11	0.00099
+Corynebacterium pseudodiphtheriticum	37637	S	489	15	504	0.04552
+Corynebacterium propinquum	43769	S	52	1	53	0.00479
+Corynebacterium segmentosum	43990	S	37	11	48	0.00434
+Corynebacterium accolens	38284	S	27	8	35	0.00316
+Corynebacterium macginleyi	38290	S	15	0	15	0.00135
+Corynebacterium kefirresidentii	1979527	S	15	1	16	0.00145
+Rothia dentocariosa	2047	S	208	5	213	0.01924
+Rothia mucilaginosa	43675	S	206	4	210	0.01897
+Rothia aeria	172042	S	18	0	18	0.00163
+Cutibacterium acnes	1747	S	127	5	132	0.01192
+Lancefieldella parvula	1382	S	57	0	57	0.00515
+Olsenella uli	133926	S	17	0	17	0.00154
+Moraxella nonliquefaciens	478	S	3203	144	3347	0.30232
+Moraxella catarrhalis	480	S	150	7	157	0.01418
+Moraxella bovis	476	S	123	6	129	0.01165
+Moraxella bovoculi	386891	S	32	10	42	0.00379
+Moraxella sp. ZY201224	2904122	S	20	2	22	0.00199
+Acinetobacter junii	40215	S	30	7	37	0.00334
+Pseudomonas fluorescens	294	S	10	39	49	0.00443
+Vibrio fluvialis	676	S	50	22	72	0.00650
+Xanthomonas campestris	339	S	19	6	25	0.00226
+Shewanella algae	38313	S	19	6	25	0.00226
+Cardiobacterium sp. Marseille-Q4385	2866573	S	24	0	24	0.00217
+Burkholderia multivorans	87883	S	52	23	75	0.00677
+Ralstonia insidiosa	190721	S	12	4	16	0.00145
+Kingella oralis	505	S	22	1	23	0.00208
+Brevundimonas nasdae	172043	S	14	2	16	0.00145
+Prevotella denticola	28129	S	430	39	469	0.04236
+Prevotella melaninogenica	28132	S	398	30	428	0.03866
+Prevotella oris	28135	S	241	8	249	0.02249
+Prevotella nigrescens	28133	S	107	19	126	0.01138
+Prevotella intermedia	28131	S	26	2	28	0.00253
+Prevotella jejuni	1177574	S	18	2	20	0.00181
+Porphyromonas gingivalis	837	S	76	1	77	0.00696
+Tannerella forsythia	28112	S	41	2	43	0.00388
+Capnocytophaga gingivalis	1017	S	15	1	16	0.00145
+Capnocytophaga leadbetteri	327575	S	11	1	12	0.00108
+Fusobacterium nucleatum	851	S	31	1	32	0.00289
+Treponema denticola	158	S	14	4	18	0.00163
+Homo sapiens	9606	S	169	1	170	0.01536
+Aspergillus fumigatus	746128	S	19	0	19	0.00172
+Human gammaherpesvirus 4	10376	S	12	0	12	0.00108

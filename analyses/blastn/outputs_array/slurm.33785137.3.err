@@ -1,0 +1,2 @@
+slurmstepd: error: *** STEP 33785143.1 ON cpu-node-53 CANCELLED AT 2023-06-13T16:30:49 ***
+slurmstepd: error: *** JOB 33785143 ON cpu-node-53 CANCELLED AT 2023-06-13T16:30:49 ***

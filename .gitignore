@@ -1,6 +1,13 @@
 *.sra
 .ipynb_checkpoints
 *.fna
-data # added after the initial commit with the main data
-analyses/kraken2/all/*kraken2.out # too big for an upload + intermediate
+# added after the initial commit with the main data
+data 
+
+# too big for an upload + intermediate
+analyses/kraken2/all/*kraken2.out 
+
+# those seems to be a mistake from the nf-training
 nf-training
+scripts/work
+scripts/.next*

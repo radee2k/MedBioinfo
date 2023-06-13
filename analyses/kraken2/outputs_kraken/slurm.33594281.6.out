@@ -1,0 +1,20 @@
+START: Tue May 30 17:04:43 CEST 2023
+ >> Checking for Valid Options...
+ >> Running Bracken 
+      >> python src/est_abundance.py -i /shared/ifbstor1/projects/2314_medbioinfo/radoslaw/MedBioinfo/analyses/kraken2/kraken2_report.tsv -o /shared/ifbstor1/projects/2314_medbioinfo/radoslaw/MedBioinfo/analyses/kraken2/kraken2_bracken.tsv -k /shared/projects/2314_medbioinfo/kraken2/arch_bact_vir_hum_protoz_fung/database100mers.kmer_distrib -l S -t 10
+PROGRAM START TIME: 05-30-2023 15:07:44
+BRACKEN SUMMARY (Kraken report: /shared/ifbstor1/projects/2314_medbioinfo/radoslaw/MedBioinfo/analyses/kraken2/kraken2_report.tsv)
+    >>> Threshold: 10 
+    >>> Number of species in sample: 3333 
+	  >> Number of species with reads > threshold: 480 
+	  >> Number of species with reads < threshold: 2853 
+    >>> Total reads in sample: 1596598
+	  >> Total reads kept at species level (reads > threshold): 665677
+	  >> Total reads discarded (species reads < threshold): 6181
+	  >> Reads distributed: 1505104
+	  >> Reads not distributed (eg. no species above threshold): 9136
+	  >> Unclassified reads: 82358
+BRACKEN OUTPUT PRODUCED: /shared/ifbstor1/projects/2314_medbioinfo/radoslaw/MedBioinfo/analyses/kraken2/kraken2_bracken.tsv
+PROGRAM END TIME: 05-30-2023 15:07:45
+  Bracken complete.
+END: Tue May 30 17:07:45 CEST 2023

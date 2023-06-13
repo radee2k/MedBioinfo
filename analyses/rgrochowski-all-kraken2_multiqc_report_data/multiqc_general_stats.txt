@@ -1,0 +1,27 @@
+Sample	FastQC_mqc-generalstats-fastqc-percent_duplicates	FastQC_mqc-generalstats-fastqc-percent_gc	FastQC_mqc-generalstats-fastqc-avg_sequence_length	FastQC_mqc-generalstats-fastqc-percent_fails	FastQC_mqc-generalstats-fastqc-total_sequences	FLASh_mqc-generalstats-flash-perccombo	Kraken_mqc-generalstats-kraken-Moraxella_nonliquefaciens	Kraken_mqc-generalstats-kraken-Top_5	Bowtie 2 / HiSAT2_mqc-generalstats-bowtie_2_hisat2-overall_alignment_rate
+ERR6913112_1	10.0	50.0	113.4	30.0	10.0	88.12			
+ERR6913112_2	10.0	49.0	113.4	30.0	10.0				
+ERR6913112_kraken2_bracken_report							30.322522196050013	35.41402427976083	
+ERR6913113_1	0.0	50.0	122.0	30.0	10.0	98.22			
+ERR6913113_2	0.0	50.0	121.6	30.0	10.0				
+ERR6913113_kraken2_bracken_report							0	17.15345828180002	
+ERR6913122_1	0.0	46.0	96.3	30.0	10.0	92.36			
+ERR6913122_2	0.0	46.0	96.3	30.0	10.0				
+ERR6913122_kraken2_bracken_report							0	31.84503137144596	
+ERR6913208_1	0.0	50.0	121.2	30.0	10.0	96.93			
+ERR6913208_2	0.0	51.0	120.4	30.0	10.0				
+ERR6913208_kraken2_bracken_report							43.659539114084566	43.659539114084566	
+ERR6913209_1	10.0	50.0	114.1	30.0	10.0	92.56			
+ERR6913209_2	10.0	51.0	113.7	30.0	10.0				
+ERR6913209_kraken2_bracken_report							0		
+ERR6913218_1	0.0	48.0	116.4	30.0	10.0	90.68			
+ERR6913218_2	0.0	48.0	116.4	30.0	10.0				
+ERR6913218_kraken2_bracken_report							0	30.62651490611771	
+ERR6913320_1	0.0	44.0	127.4	40.0	10.0	74.1			
+ERR6913320_2	0.0	46.0	127.2	30.0	10.0				
+ERR6913320_kraken2_bracken_report							0	30.55436447166922	
+ERR6913349_1	0.0	50.0	149.9	30.0	10.0	86.46			
+ERR6913349_2	0.0	50.0	150.0	30.0	10.0				
+ERR6913349_kraken2_bracken_report							0	33.98058575003622	
+rgrochowski_bowtie2_PhiX									0.0
+rgrochowski_bowtie2_sc2									1.43

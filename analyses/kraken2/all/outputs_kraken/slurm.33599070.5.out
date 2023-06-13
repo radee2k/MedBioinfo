@@ -1,0 +1,24 @@
+START: Wed May 31 10:47:26 CEST 2023
+ERR6913122
+/shared/ifbstor1/projects/2314_medbioinfo/radoslaw/MedBioinfo/data/sra_fastq/ERR6913122
+/shared/ifbstor1/projects/2314_medbioinfo/radoslaw/MedBioinfo/analyses/kraken2/all/ERR6913122_kraken2
+ >> Checking for Valid Options...
+ >> Running Bracken 
+      >> python src/est_abundance.py -i /shared/ifbstor1/projects/2314_medbioinfo/radoslaw/MedBioinfo/analyses/kraken2/all/ERR6913122_kraken2_report.tsv -o /shared/ifbstor1/projects/2314_medbioinfo/radoslaw/MedBioinfo/analyses/kraken2/all/ERR6913122_kraken2_bracken.tsv -k /shared/projects/2314_medbioinfo/kraken2/arch_bact_vir_hum_protoz_fung/database100mers.kmer_distrib -l S -t 10
+PROGRAM START TIME: 05-31-2023 08:51:22
+BRACKEN SUMMARY (Kraken report: /shared/ifbstor1/projects/2314_medbioinfo/radoslaw/MedBioinfo/analyses/kraken2/all/ERR6913122_kraken2_report.tsv)
+    >>> Threshold: 10 
+    >>> Number of species in sample: 5557 
+	  >> Number of species with reads > threshold: 459 
+	  >> Number of species with reads < threshold: 5098 
+    >>> Total reads in sample: 372663
+	  >> Total reads kept at species level (reads > threshold): 145495
+	  >> Total reads discarded (species reads < threshold): 13545
+	  >> Reads distributed: 174425
+	  >> Reads not distributed (eg. no species above threshold): 15308
+	  >> Unclassified reads: 182930
+BRACKEN OUTPUT PRODUCED: /shared/ifbstor1/projects/2314_medbioinfo/radoslaw/MedBioinfo/analyses/kraken2/all/ERR6913122_kraken2_bracken.tsv
+PROGRAM END TIME: 05-31-2023 08:51:22
+  Bracken complete.
+Writing /shared/ifbstor1/projects/2314_medbioinfo/radoslaw/MedBioinfo/analyses/krona/ERR6913122_kraken2_krona.html...
+END: Wed May 31 10:51:23 CEST 2023

@@ -1,0 +1,34 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Corynebacterium segmentosum	43990	S	85	385	470	0.14747
+Corynebacterium accolens	38284	S	70	316	386	0.12112
+Corynebacterium macginleyi	38290	S	37	15	52	0.01632
+Corynebacterium striatum	43770	S	23	41	64	0.02008
+Corynebacterium glucuronolyticum	39791	S	15	10	25	0.00784
+Corynebacterium tuberculostearicum	38304	S	11	12	23	0.00722
+Rothia mucilaginosa	43675	S	36	12	48	0.01506
+Rothia kristinae	37923	S	20	16	36	0.01130
+Kocuria rhizophila	72000	S	15	10	25	0.00784
+Cutibacterium acnes	1747	S	51	25	76	0.02385
+Cutibacterium granulosum	33011	S	32	17	49	0.01537
+Staphylococcus cohnii	29382	S	10	54	64	0.02008
+Anaerococcus prevotii	33034	S	10	41	51	0.01600
+Limnospira indica	147322	S	14	39	53	0.01663
+Calothrix sp. PCC 6303	1170562	S	14	5	19	0.00596
+Acinetobacter junii	40215	S	100	500	600	0.18826
+Moraxella osloensis	34062	S	10	13	23	0.00722
+Xanthomonas campestris	339	S	14	13	27	0.00847
+Stenotrophomonas maltophilia	40324	S	12	30	42	0.01318
+Halomonas sp. JS92-SW72	2306583	S	36	20	56	0.01757
+Burkholderia cenocepacia	95486	S	32	239	271	0.08503
+Mesorhizobium terrae	2725666	S	25	24	49	0.01537
+Bradyrhizobium sp. SK17	2057741	S	13	12	25	0.00784
+Brevundimonas sp. Bb-A	2560058	S	14	19	33	0.01035
+Verrucomicrobium spinosum	2736	S	14	8	22	0.00690
+Archangium gephyra	48	S	47	3	50	0.01569
+Archangium violaceum	83451	S	11	0	11	0.00345
+Phaeodactylum tricornutum	2850	S	168	17	185	0.05805
+Thalassiosira pseudonana	35128	S	124	19	143	0.04487
+Malassezia restricta	76775	S	22	18	40	0.01255
+Homo sapiens	9606	S	37	34	71	0.02228
+Guillardia theta	55529	S	19	37	56	0.01757
+Severe acute respiratory syndrome-related coronavirus	694009	S	24	0	24	0.00753

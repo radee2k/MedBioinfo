@@ -1,0 +1,3 @@
+slurmstepd: error: *** JOB 33785078 ON cpu-node-78 CANCELLED AT 2023-06-13T16:29:22 ***
+slurmstepd: error: *** STEP 33785078.1 ON cpu-node-78 CANCELLED AT 2023-06-13T16:29:22 ***
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.

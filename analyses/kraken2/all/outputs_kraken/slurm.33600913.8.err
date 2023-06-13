@@ -1,0 +1,3 @@
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+slurmstepd: error: *** JOB 33600913 ON cpu-node-79 CANCELLED AT 2023-05-31T12:07:27 ***
+Loading database information...slurmstepd: error: *** STEP 33600913.0 ON cpu-node-79 CANCELLED AT 2023-05-31T12:07:27 ***
