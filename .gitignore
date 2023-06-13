@@ -1,8 +1,15 @@
 *.sra
 .ipynb_checkpoints
 *.fna
+data
+analyses/kraken2/all/*kraken2.out 
+analyses/kraken2/kraken2.out
+nf-training
+scripts/work
+scripts/.next*
+core*
 # added after the initial commit with the main data
-data 
+data
 
 # too big for an upload + intermediate
 analyses/kraken2/all/*kraken2.out 
@@ -12,3 +19,6 @@ analyses/kraken2/kraken2.out
 nf-training
 scripts/work
 scripts/.next*
+
+# whatever that is
+core*
