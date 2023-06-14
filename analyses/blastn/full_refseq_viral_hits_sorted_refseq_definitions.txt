@@ -1,0 +1,1054 @@
+>NC_018464.1 Shamonda virus N and NSs genes, segment S, genomic RNA, isolate Ib An 5550
+>NC_022095.1 Human papillomavirus type 179 complete genome, isolate SIBX16
+>NC_026163.1 Sewage-associated gemycircularvirus-7a isolate BS3939, complete sequence
+>NC_026164.1 Sewage derived gemycircularvirus 1 isolate BS3917, complete sequence
+>NC_026165.1 Sewage-associated gemycircularvirus-9 isolate BS3970, complete sequence
+>NC_026254.1 Sewage-associated gemycircularvirus-1 isolate SaGmV-1_NZ-BS3970-2012, complete genome
+>NC_007605.1 Human gammaherpesvirus 4, complete genome
+>NC_009334.1 Human herpesvirus 4, complete genome
+>AC_000007.1 Human adenovirus 2, complete genome
+>NC_003287.2 Enterobacteria phage M13, complete genome
+>AC_000008.1 Human adenovirus 5, complete genome
+>NC_001405.1 Human adenovirus C, complete genome
+>NC_010392.1 Phage Gifsy-1, complete genome
+>NC_008168.1 Choristoneura fumiferana granulovirus, complete genome
+>NC_001350.1 Saimiriine herpesvirus 2 complete genome
+>NC_000898.1 Human herpesvirus 6B, complete genome
+>NC_001716.2 Human herpesvirus 7, complete genome
+>NC_009127.1 Cyprinid herpesvirus 3, complete genome
+>AC_000017.1 Human adenovirus type 1, complete genome
+>AC_000006.1 Human adenovirus D, complete genome
+>NC_006146.1 Macacine herpesvirus 4, complete genome
+>NC_007612.1 Bovine papillomavirus 7, complete genome
+>NC_003225.3 White spot syndrome virus strain CN01, complete genome
+>NC_038494.1 Sewage-associated gemycircularvirus-7b isolate BS3972, complete sequence
+>NC_001664.4 Human betaherpesvirus 6A, variant A DNA, complete virion genome, isolate U1102
+>NC_004584.1 Streptococcus prophage 315.1, complete genome
+>NC_004588.1 Streptococcus prophage 315.5, complete genome
+>NC_045512.2 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome
+>NC_049947.1 Escherichia virus Lambda_1H12 genome assembly, chromosome: 1
+>NC_025217.1 Bat Hp-betacoronavirus/Zhejiang2013, complete genome
+>NC_006577.2 Human coronavirus HKU1, complete genome
+>NC_034440.1 Bat coronavirus isolate PREDICT/PDF-2180, complete genome
+>NC_004718.3 SARS coronavirus Tor2, complete genome
+>NC_042307.1 Escherichia phage H8, complete genome, *** SEQUENCING IN PROGRESS ***
+>NC_051591.1 Mycobacterium phage Taquito, complete genome
+>NC_047797.2 Pectobacterium phage PP81, complete genome
+>NC_047801.2 Pectobacterium phage PP47, complete genome
+>NC_051605.1 Mycobacterium phage Amgine, complete genome
+>NC_051606.1 Mycobacterium phage Amohnition, complete genome
+>NC_051607.1 Mycobacterium phage DarthP, complete genome
+>NC_042013.1 Agrobacterium phage Atu_ph07, complete genome
+>NC_051608.1 Mycobacterium phage Ekdilam, complete genome
+>NC_049496.1 Salmonella phage Se-G, complete genome
+>NC_049497.1 Salmonella phage Se-J, complete genome
+>NC_021248.1 Choristoneura biennis entomopoxvirus 'L', complete genome
+>NC_000852.5 Paramecium bursaria Chlorella virus 1, complete genome
+>NC_005859.1 Enterobacteria phage T5, complete genome
+>NC_002687.1 Ectocarpus siliculosus virus 1, complete genome
+>NC_032111.1 BeAn 58058 virus, complete genome
+>NC_010956.1 Human adenovirus D, complete genome
+>NC_004687.1 Mycobacterium phage Bxz1, complete genome
+>NC_004333.2 Burkholderia phage Bcep781, complete genome
+>NC_008208.1 Aeromonas phage 25, complete genome
+>NC_022563.1 Squirrel poxvirus strain Red squirrel UK complete genome
+>NC_021312.1 Phaeocystis globosa virus strain 16T, complete genome
+>NC_007809.1 Pseudomonas phage M6, complete genome
+>NC_008207.1 Mycobacterium phage Catera, complete genome
+>NC_008202.2 Mycobacterium phage Halo, complete genome
+>NC_043129.1 Micromonas pusilla virus SP1, complete genome, *** SEQUENCING IN PROGRESS ***, 2 unordered pieces
+>NC_009015.1 Burkholderia ambifaria phage BcepF1, complete genome
+>NC_028094.1 Chrysochromulina ericina virus isolate CeV-01B, complete genome
+>NC_010116.1 Pseudomonas phage YuA, complete genome
+>NC_012696.1 Roseophage EE36P1, complete genome
+>NC_010583.1 Enterobacteria phage EPS7, complete genome
+>NC_011271.1 Mycobacterium phage Cali, complete genome
+>NC_011272.1 Mycobacterium phage Rizal, complete genome
+>NC_011269.2 Mycobacterium phage ScottMcG, complete genome
+>NC_011270.1 Mycobacterium phage Spud, complete genome
+>NC_021073.1 Vibrio phage henriette 12B8, complete genome
+>NC_012663.1 Lactococcus phage P087, complete genome
+>NC_012959.1 Human adenovirus 54, complete genome
+>NC_020862.2 Sulfitobacter phage phiCB2047-B genomic sequence
+>NC_020840.1 Tetraselmis viridis virus S20 genomic sequence
+>NC_014663.1 Acinetobacter phage Acj9, complete genome
+>NC_014635.1 Aeromonas phage phiAS4, complete genome
+>NC_014636.1 Aeromonas phage phiAS5, complete genome
+>NC_019926.1 Erwinia amylovora phage phiEa100 complete genome
+>NC_023688.1 Aeromonas phage PX29, complete genome
+>NC_019452.1 Escherichia phage PhaxI, complete genome
+>NC_015269.1 Enterobacteria phage SPC35, complete genome
+>NC_028999.1 Pseudomonas phage PhiPA3, complete genome
+>NC_028986.1 Mycobacterium phage Alice, complete sequence
+>NC_042035.1 Mycobacterium phage Zemanar, complete sequence
+>NC_041993.1 Mycobacterium phage Sebata, complete genome
+>NC_023696.1 Mycobacterium phage Dandelion, complete genome
+>NC_023714.1 Mycobacterium phage LinStu, complete genome
+>NC_023737.1 Mycobacterium phage Pleione, complete genome
+>NC_023733.1 Mycobacterium phage MoMoMixon, complete genome
+>NC_023725.1 Mycobacterium phage Nappy, complete genome
+>NC_027925.1 Apis mellifera filamentous virus isolate CH-CO5, partial genome
+>NC_019530.1 Salmonella phage PhiSH19, complete genome
+>NC_017981.1 Xanthomonas phage vB_XveM_DIBBI, complete genome
+>NC_019529.1 Vibrio phage pVp-1, complete genome
+>NC_019540.1 Salinivibrio phage CW02, complete genome
+>NC_017974.1 Cronobacter phage CR3, complete genome
+>NC_021772.1 Salmonella phage FSL SP-058, complete genome
+>NC_021782.1 Salmonella phage FSL SP-076, complete genome
+>NC_028931.1 Pseudomonas phage PaMx28, partial genome
+>NC_028809.1 Pseudomonas phage PaMx74, partial genome
+>NC_019507.1 Campylobacter phage CP21, complete genome
+>NC_019543.1 Aeromonas phage Aes508, complete genome
+>NC_025446.1 Escherichia phage ECML-4, complete genome
+>NC_042061.1 Salmonella phage STML-13-1, partial genome
+>NC_029000.1 Stenotrophomonas phage IME13, complete genome
+>NC_019406.1 Caulobacter phage CcrColossus, complete genome
+>NC_019410.1 Caulobacter phage CcrKarma, complete genome
+>NC_019407.1 Caulobacter phage CcrMagneto, complete genome
+>NC_020082.1 Edwardsiella phage MSW-3 DNA, complete genome
+>NC_021563.1 Serratia phage Eta, complete genome
+>NC_021249.1 Choristoneura rosaceana entomopoxvirus 'L', complete genome
+>NC_041934.1 Pseudomonas phage LKO4, complete genome
+>NC_021349.1 Mycobacterium phage Astraea, complete genome
+>NC_024354.1 Cronobacter phage CR8, complete genome
+>NC_021346.1 Mycobacterium phage Gizmo, complete genome
+>NC_021348.1 Mycobacterium phage ArcherS7, complete genome
+>NC_021556.1 Mycobacterium phage Leo, complete genome
+>NC_021806.1 Cellulophaga phage phi14:2, complete genome
+>NC_029044.1 Mycobacterium phage Breeniome, complete genome
+>NC_021858.1 Pandoravirus dulcis, complete genome
+>NC_022098.1 Pandoravirus salinus, complete genome
+>NC_022331.2 Mycobacterium phage Bane1, complete genome
+>NC_024139.1 Escherichia phage vB_EcoS_FFH1, complete genome
+>NC_023859.1 Microbacterium phage vB_MoxS-ISF9, complete genome
+>NC_025436.1 Shewanella sp. phage 1/4, complete genome
+>NC_025470.1 Shewanella sp. phage 1/40, complete genome
+>NC_027366.1 Bacillus phage Mater, complete genome
+>NC_027374.1 Bacillus phage Moonbeam, complete genome
+>NC_027297.1 Salmonella phage Stitch, complete genome
+>NC_027356.1 Enterobacteria phage DT57C, complete genome
+>NC_047749.1 Enterobacteria phage DT571/2, complete genome
+>NC_028812.1 Proteus phage pPM_01, complete genome
+>NC_028754.1 Salmonella phage Shivani, complete genome
+>NC_048638.1 Pseudomonas phage ZC03, complete genome
+>NC_028818.1 Streptomyces phage TP1604, complete genome
+>NC_029061.1 Rhodoferax phage P26218, complete genome
+>NC_031042.1 Salmonella phage NR01, complete genome
+>NC_048785.1 Salmonella phage SE24, complete genome
+>NC_047754.1 Escherichia phage APCEc03, complete genome
+>NC_047757.1 Caulobacter phage Seuss, complete genome
+>NC_027867.1 Mollivirus sibericum isolate P1084-T, complete genome
+>NC_028672.1 Cronobacter phage PBES 02, complete genome
+>NC_047758.1 Pectobacterium phage PPWS1 DNA, complete genome
+>NC_028968.1 Mycobacterium phage BrownCNA, complete genome
+>NC_028869.1 Mycobacterium phage HyRo, complete genome
+>NC_028840.1 Escherichia phage slur09 genome assembly slu09, chromosome : 1
+>NC_028651.1 Hydrogenobaculum phage 1 strain HP1, complete genome
+>NC_041872.1 Flavobacterium phage FpV4, complete genome
+>NC_030928.1 Xanthomonas phage f20-Xaj, complete genome
+>NC_030937.1 Xanthomonas phage f30-Xaj, complete genome
+>NC_031914.1 Flavobacterium phage Fpv1, complete genome
+>NC_031933.1 Salmonella phage 118970_sal2, complete genome
+>NC_031902.1 Salmonella phage 100268_sal2, complete genome
+>NC_031931.1 Flavobacterium phage Fpv2, complete genome
+>NC_031912.1 Flavobacterium phage Fpv20, complete genome
+>NC_031904.1 Flavobacterium phage Fpv3, complete genome
+>NC_031022.1 Shigella phage SHSML-45, complete genome
+>NC_047770.1 Escherichia phage ESCO13, complete genome
+>NC_031010.1 Erwinia phage vB_EamM_Kwan, complete genome
+>NC_031080.1 Mycobacterium phage Tonenili, complete genome
+>NC_047776.1 Escherichia phage ESCO5, complete genome
+>NC_041889.1 Streptomyces phage Rima, complete genome
+>NC_041899.1 Klebsiella phage vB_Kpn_IME260, complete genome
+>NC_041901.1 Mycobacterium phage Lukilu, complete genome
+>NC_048650.1 Streptomyces phage BRock, complete genome
+>NC_047859.1 Salmonella phage SP01, complete genome
+>NC_041917.1 Serratia phage BF, complete genome
+>NC_041921.1 Dinoroseobacter phage vB_DshS-R5C, complete genome
+>NC_047822.1 Escherichia phage phiLLS, complete genome
+>NC_049807.1 Lactococcus phage AM6, complete genome
+>NC_048660.1 Aeromonas phage phiA8-29, complete genome
+>NC_010811.2 Ralstonia phage RSL1, complete genome
+>NC_047880.1 Erwinia phage vB_EamM_Y3, complete genome
+>NC_015296.1 Salmonella phage Vi01, complete genome
+>NC_041994.1 Pseudomonas phage Noxifer, complete genome
+>NC_041997.1 Acidovorax phage ACP17, complete genome
+>NC_047835.1 Escherichia phage OSYSP, complete genome
+>NC_042016.1 Streptomyces phage DrGrey, complete genome
+>NC_047884.1 Bacteriophage T5-like saus132, complete genome
+>NC_047885.1 Bacteriophage T5-like chee24, complete genome
+>NC_049396.1 Salmonella phage SP1, partial genome
+>NC_047999.1 Salmonella phage SH9, partial genome
+>NC_042019.1 Aeromonas phage AS-gz, complete genome
+>NC_042040.1 Rhodococcus phage Trina, complete genome
+>NC_048000.1 Salmonella phage LVR16A, partial genome
+>NC_048677.1 Lactobacillus phage LpeD, complete genome
+>NC_047887.1 Pectobacterium phage DU_PP_V, complete genome
+>NC_047888.1 Ralstonia phage DU_RP_I, complete genome
+>NC_042085.1 Corynebacterium phage C3PO, complete genome
+>NC_042086.1 Corynebacterium phage Darwin, complete genome
+>NC_042087.1 Corynebacterium phage Zion, complete genome
+>NC_042090.1 Proteus phage PM135, complete genome
+>NC_042093.1 Klebsiella phage Sugarland, complete genome
+>NC_048001.1 Salmonella phage SP3, partial genome
+>NC_048685.1 Streptomyces phage Manuel, complete genome
+>NC_048686.1 Streptomyces phage Immanuel3, complete genome
+>NC_047900.1 Klebsiella phage May, complete genome
+>NC_047901.1 Klebsiella phage Menlow, complete genome
+>NC_048134.1 Lactobacillus phage Lpa804, complete genome
+>NC_049433.1 Escherichia phage EP75, complete genome
+>NC_048207.1 Gordonia phage SteveFrench, complete genome
+>NC_042105.1 Streptomyces phage BillNye, complete genome
+>NC_042109.1 Microbacterium phage Eleri, complete genome
+>NC_042110.1 Microbacterium phage Hamlet, complete genome
+>NC_042111.1 Microbacterium phage Ilzat, complete genome
+>NC_048703.1 Xanthomonas phage RiverRider, complete genome
+>NC_022343.1 Klebsiella virus 0507KN21 DNA, complete genome
+>NC_047979.1 Escherichia phage Gostya9, complete genome
+>NC_049929.1 Microbacterium phage Teagan, complete genome
+>NC_048706.1 Streptomyces phage FlowerPower, complete genome
+>NC_048627.1 Escherichia phage SP15 DNA, complete genome
+>NC_047995.1 Erwinia phage vB_EamM_Alexandra, complete genome
+>NC_048005.1 Salmonella phage S113, complete genome
+>NC_048006.1 Salmonella phage S114, complete genome
+>NC_048007.1 Salmonella phage S116, complete genome
+>NC_049437.1 Salmonella phage S118, complete genome
+>NC_048013.1 Salmonella phage S124, complete genome
+>NC_048008.1 Salmonella phage S126, complete genome
+>NC_048009.1 Salmonella phage S131, complete genome
+>NC_048010.1 Salmonella phage S132, complete genome
+>NC_048011.1 Salmonella phage S133, complete genome
+>NC_048012.1 Salmonella phage S147, complete genome
+>NC_048016.1 Erwinia phage Wellington, complete genome
+>NC_048052.1 Dickeya phage vB_DsoP_JA10, complete genome
+>NC_048045.1 Caulobacter phage CcrBL10, complete genome
+>NC_048047.1 Caulobacter phage CcrBL9, complete genome
+>NC_048046.1 Caulobacter phage CcrPW, complete genome
+>NC_049440.1 Salmonella phage SenALZ1, complete genome
+>NC_049439.1 Salmonella phage SenASZ3, complete genome
+>NC_049977.1 Bacteroides phage crAss001, complete genome
+>NC_048080.1 Acinetobacter phage vB_AbaM_B09_Aci05, complete genome
+>NC_048074.1 Acinetobacter phage vB_AbaM_B09_Aci01-1, complete genome
+>NC_048075.1 Acinetobacter phage vB_AbaM_B09_Aci02-2, complete genome
+>NC_048086.1 Proteus phage Stubb, complete genome
+>NC_048731.1 Escherichia phage fp01, complete genome
+>NC_048733.1 Microbacterium phage Burro, complete genome
+>NC_048062.1 Salmonella phage Sw2, complete genome
+>NC_048077.1 Dickeya phage vB_DsoM_JA11, complete genome
+>NC_049444.1 Klebsiella phage Pylas, complete genome
+>NC_048203.1 Escherichia virus vB_Eco_mar003J3 genome assembly, chromosome: 1
+>NC_048205.1 Escherichia virus vB_Eco_mar004NP2 genome assembly, chromosome: 1
+>NC_048736.1 Serratia phage vB_SmaA_3M, complete genome
+>NC_048089.1 Salmonella phage STG2, complete genome
+>NC_048110.1 Salmonella phage Seafire, complete genome
+>NC_048144.1 Microbacterium phage Schubert, complete genome
+>NC_048149.1 Salmonella phage 1-23, complete genome
+>NC_048145.1 Salmonella phage 3-29, complete genome
+>NC_048748.1 Escherichia phage vB_EcoS_HdH2, complete genome
+>NC_048186.1 Escherichia phage vB_EcoM_KWBSE43-6, complete genome
+>NC_048752.1 Lactobacillus phage 521B, complete genome
+>NC_049850.1 Burkholderia phage BcepSaruman, complete genome
+>NC_049851.1 Burkholderia phage BcepSauron, complete genome
+>NC_049455.1 Shigella phage MK-13, complete genome
+>NC_048755.1 Stenotrophomonas phage YB07, complete genome
+>NC_048760.1 Salmonella phage Sepoy, complete genome
+>NC_048189.1 Rheinheimera phage vB_RspM_Barba18A, complete genome
+>NC_048190.1 Rheinheimera phage vB_RspM_Barba19A, complete genome
+>NC_048191.1 Rheinheimera phage vB_RspM_Barba21A, complete genome
+>NC_048187.1 Rheinheimera phage vB_RspM_Barba5S, complete genome
+>NC_048188.1 Rheinheimera phage vB_RspM_Barba8S, complete genome
+>NC_042094.1 Vibrio phage Ceto, complete genome
+>NC_042095.1 Vibrio phage Thalassa, complete genome
+>NC_048766.1 Pantoea phage vB_PagM_AAM37, complete genome
+>NC_048767.1 Pantoea phage vB_PagM_PSKM, complete genome
+>NC_048773.1 Aeromonas phage 4_4572, complete genome
+>NC_048795.1 Salmonella phage Th1, complete genome
+>NC_049462.1 Klebsiella phage Magnus, complete genome
+>NC_049928.1 Microbacterium phage MonChoix, complete genome
+>NC_048781.1 Salmonella phage vB_SenS_SB13, complete genome
+>NC_049849.1 Achromobacter phage Motura, complete genome
+>NC_048794.1 Salmonella virus VSe12, complete genome
+>NC_048786.1 Salmonella phage SE11, complete genome
+>NC_049512.1 Salmonella phage SE14, complete genome
+>NC_048808.1 Salmonella phage OSY-STA, partial genome
+>NC_049467.1 Klebsiella phage KpCHEMY26, complete genome
+>NC_048811.1 Salmonella phage 1-29, complete genome
+>NC_048802.1 Stenotrophomonas phage Moby, complete genome
+>NC_048809.1 Salmonella phage 2-3, complete genome
+>NC_048818.1 Escherichia virus VEc33, complete genome
+>NC_048804.1 Stenotrophomonas phage Mendera, complete genome
+>NC_048819.1 Salmonella phage 1-19, complete genome
+>NC_049472.1 Klebsiella virus UPM 2146, complete genome
+>NC_017969.1 Escherichia phage vB_EcoS_AKFV33, complete genome
+>NC_049950.1 Escherichia virus Lambda_2H10 genome assembly, chromosome: 1
+>NC_048831.1 Flavobacterium phage vB_FspS_filifjonk9-1, complete genome
+>NC_048833.1 Flavobacterium phage vB_FspS_hemulen6-1, complete genome
+>NC_048837.1 Flavobacterium phage vB_FspS_mumin9-1, complete genome
+>NC_048838.1 Flavobacterium phage vB_FspS_mymlan6-1, complete genome
+>NC_048842.1 Flavobacterium phage vB_FspS_stinky9-1, complete genome
+>NC_048844.1 Flavobacterium phage vB_FspS_tooticki6-1, complete genome
+>NC_048664.1 Cronobacter phage vB_CsaP_009 DNA, complete genome
+>NC_048861.1 Proteus phage Privateer, complete genome
+>NC_048853.1 Phage NBEco001, complete genome
+>NC_048855.1 Phage NBEco002, complete genome
+>NC_048856.1 Phage NBSal003, complete genome
+>NC_048857.1 Phage NBSal005, complete genome
+>NC_048852.1 Salmonella phage L6jm, complete genome
+>NC_048862.1 Salmonella phage astrithr, complete genome
+>NC_048872.1 Salmonella phage atrejo, complete genome
+>NC_048870.1 Salmonella phage bastian, complete genome
+>NC_049502.1 Salmonella phage bering, complete genome
+>NC_048866.1 Salmonella phage bombadil, complete genome
+>NC_049504.1 Salmonella phage dinky, complete genome
+>NC_048867.1 Salmonella phage faergetype, complete genome
+>NC_048869.1 Salmonella phage fuchur, complete genome
+>NC_048865.1 Salmonella phage oldekolle, complete genome
+>NC_048871.1 Salmonella phage oselot, complete genome
+>NC_048868.1 Salmonella phage rokbiter, complete genome
+>NC_052654.1 Escherichia phage vB_EcoM-Ro121c4YLVW, complete genome
+>NC_052983.1 Escherichia phage E21, complete genome
+>NC_053512.1 Mycobacterium phage Kumao, complete genome
+>NC_054442.1 Mycobacterium phage Grizzly, complete genome
+>NC_054441.1 Mycobacterium phage Rabbs, complete genome
+>NC_054715.1 Mycobacterium phage Bigswole, complete genome
+>NC_054716.1 Mycobacterium phage Cane17, complete genome
+>NC_054717.1 Mycobacterium phage CharlieB, complete genome
+>NC_054722.1 Mycobacterium phage Sauce, complete genome
+>NC_054720.1 Mycobacterium phage QBert, complete genome
+>NC_054719.1 Mycobacterium phage NoodleTree, complete genome
+>NC_054718.1 Mycobacterium phage Mangeria, complete genome
+>NC_054721.1 Mycobacterium phage Quasimodo, complete genome
+>NC_054725.1 Gordonia phage Skog, complete genome
+>NC_055235.1 Baboon cytomegalovirus OCOM4-37, complete genome, *** SEQUENCING IN PROGRESS ***, 22 unordered pieces
+>NC_055166.1 Beluga whale alphaherpesvirus 1 strain LN3131-1, complete genome
+>NC_054952.1 Stenotrophomonas phage IME-SM1, complete genome
+>NC_055142.1 Lymphocryptovirus Macaca/pfe-lcl-E3, complete genome
+>NC_055061.1 Rhodococcus phage Toil, complete genome
+>NC_055746.1 Aeromonas phage 50AhydR13PP, complete genome
+>NC_055747.1 Aeromonas phage 60AhydR15PP, complete genome
+>NC_055774.1 Gordonia phage Bibwit, complete genome
+>NC_055772.1 Corynebacterium phage Kimchi1738, complete genome
+>NC_055794.1 Vibrio phage Achelous, complete genome
+>NC_055807.1 Corynebacterium phage Stickynote, complete genome
+>NC_055801.1 Vibrio phage Pontus, complete genome
+>NC_055800.1 Vibrio phage Brizo, complete genome
+>NC_055819.1 Gordonia phage Keitabear, complete genome
+>NC_055823.1 Acinetobacter phage VB_ApiP_XC38, complete genome
+>NC_055832.1 Bacteroides phage DAC15, complete genome
+>NC_055830.1 Vibrio phage Chester, complete genome
+>NC_055840.1 Agrobacterium phage OLIVR1, complete genome
+>NC_055829.1 Vibrio phage Bennett, complete genome
+>NC_055848.1 Vibrio phage AG74, complete genome
+>NC_055851.1 Vibrio phage Athena, complete genome
+>NC_055849.1 Vibrio phage Cody, complete genome
+>NC_055850.1 Vibrio phage Quinn, complete genome
+>NC_055847.1 Vibrio phage River4, complete genome
+>NC_055852.1 Flavobacterium phage vB_FspP_elemoA_7-9A, complete genome
+>NC_055855.1 Flavobacterium phage vB_Fsp_elemo13-5B, partial genome
+>NC_055853.1 Flavobacterium phage vB_Fsp_elemo6-3D, partial genome
+>NC_055854.1 Flavobacterium phage vB_Fsp_elemo6-9C, partial genome
+>NC_054956.1 Ralstonia phage Cimandef, complete genome
+>NC_055860.1 Mycobacterium phage Heath, complete genome
+>NC_055868.1 CrAssphage cr50_1, complete genome
+>NC_055869.1 CrAssphage cr55_1, complete genome
+>NC_055873.1 CrAssphage cr1_1, complete genome
+>NC_055875.1 CrAssphage cr10_1, complete genome
+>NC_055881.1 CrAssphage cr112_1, complete genome
+>NC_055882.1 CrAssphage cr116_1, complete genome
+>NC_055889.1 CrAssphage cr53_1, complete genome
+>NC_055895.1 CrAssphage cr7_1, complete genome
+>NC_055899.1 CrAssphage cr124_1, complete genome
+>NC_055902.1 CrAssphage cr131_1, complete genome
+>NC_055903.1 CrAssphage cr272_1, complete genome
+>NC_055904.1 CrAssphage cr273_1, complete genome
+>NC_055915.1 Flavobacterium phage vB_FspM_immuto_2-6A, complete genome
+>NC_055913.1 Vibrio phage Gary, complete genome
+>NC_055921.1 Salmonella phage vB_SalP_TR2, complete genome
+>NC_048048.2 Caulobacter phage CcrSC, complete genome
+>NC_016991.1 White-eye coronavirus HKU16, complete genome
+>NC_035191.1 Wencheng Sm shrew coronavirus isolate Xingguo-101 ORF1ab polyprotein, spike glycoprotein, envelope protein, membrane protein, and nucleocapsid protein genes, complete cds
+>NC_021529.2 Vibrio phage nt-1, complete genome
+>NC_042037.1 Aeromonas phage pIS4-A genomic sequence
+>NC_021534.1 Vibrio phage pYD38-A genomic sequence
+>NC_042029.1 Edwardsiella phage eiAU, complete genome
+>NC_018860.1 Bacillus phage BCP78, complete genome
+>NC_022096.1 Pseudomonas phage PaBG, complete genome
+>NC_022776.1 Streptococcus phage TP-778L complete genome
+>NC_023555.1 Edwardsiella phage eiAU-183, complete genome
+>NC_028763.1 Polaribacter phage P12002S, complete genome
+>NC_004462.2 Thermus thermophilus phage IN93, complete genome
+>NC_031932.1 Flavobacterium phage Fpv10, complete genome
+>NC_031945.1 Flavobacterium phage Fpv11, complete genome
+>NC_030230.1 Tokyovirus A1 DNA, nearly complete genome
+>NC_047856.1 Enterobacter phage KNP3, complete genome
+>NC_047798.1 Klebsiella phage K5-2, complete genome
+>NC_047799.1 Klebsiella phage K5-4, complete genome
+>NC_055716.1 Yersinia phage fHe-Yen9-01, complete genome
+>NC_054957.1 Ralstonia phage Eline, complete genome
+>NC_054960.1 Ralstonia phage Heva, complete genome
+>NC_055877.1 CrAssphage cr8_1, complete genome
+>NC_005856.1 Enterobacteria phage P1, complete genome
+>NC_001609.1 Enterobacteria phage P4, complete genome
+>NC_050152.1 Enterobacteria phage P7, complete genome
+>NC_001697.1 Haemophilus phage HP1, complete genome
+>NC_001416.1 Enterobacteria phage lambda, complete genome
+>NC_021190.1 Enterobacteria phage phi80, complete genome
+>NC_000924.1 Enterobacteria phage 933W, complete genome
+>NC_002166.1 Bacteriophage HK022, complete genome
+>NC_003298.1 Enterobacteria phage T3, complete genome
+>NC_047864.1 Enterobacteria phage T3, complete genome
+>NC_001604.1 Enterobacteria phage T7, complete genome
+>NC_005344.1 Enterobacteria phage Sf6, complete genome
+>NC_007581.1 Clostridium phage c-st, complete genome
+>NC_005294.1 Streptococcus prophage EJ-1, complete genome
+>NC_001900.2 Mycobacterium virus D29, complete genome
+>NC_002484.2 Bacteriophage D3, complete genome
+>NC_001335.1 Mycobacterium phage L5 complete genome
+>NC_028700.1 Streptococcus phage T12, complete genome
+>NC_002167.1 Enterobacteria phage HK97, complete genome
+>NC_011534.1 Kluyvera phage Kvp1, complete genome
+>NC_004112.1 Lactobacillus phage A2, complete genome
+>NC_007021.1 Staphylococcus phage Twort, complete genome
+>NC_003444.1 Enterobacteria phage SfV, complete genome
+>NC_007050.1 Staphylococcus phage 85, complete genome
+>NC_000872.1 Streptococcus phage Sfi21, complete genome
+>NC_021857.1 Shigella phage SfII, complete genome
+>NC_000871.1 Streptococcus phage Sfi19, complete genome
+>NC_020197.1 Streptococcus phage TP-J34 complete genome
+>NC_002214.1 Streptococcus thermophilus bacteriophage Sfi11, complete genome
+>NC_004303.1 Streptococcus phage O1205, complete genome
+>NC_002072.2 Streptococcus phage DT1, complete genome
+>NC_000902.1 Enterobacteria phage VT2-Sakai, complete genome
+>NC_006949.1 Enterobacteria phage ES18, complete genome
+>NC_001271.1 Yersinia phage phiYeO3-12, complete genome
+>NC_002185.1 Streptococcus phage 7201, complete genome
+>NC_003050.2 Streptococcus pneumoniae bacteriophage MM1 complete genome
+>NC_005355.1 Lactobacillus prophage Lj965, complete genome
+>NC_005354.1 Lactobacillus prophage Lj928, complete genome
+>NC_007501.1 Lactobacillus phage Lc-Nu, complete genome
+>NC_002669.1 Lactococcus prophage bIL310, complete genome
+>NC_002730.1 Enterobacteria phage HK620, complete genome
+>NC_003315.1 Haemophilus phage HP2, complete genome
+>NC_004996.1 Streptococcus phage SM1, complete genome
+>NC_004629.1 Pseudomonas phage phiKZ, complete genome
+>NC_004348.1 Enterobacteria phage ST64T, complete genome
+>NC_004313.1 Salmonella phage ST64B, complete genome
+>NC_003309.1 Burkholderia phage phiE125, complete genome
+>NC_004466.2 Pseudomonas aeruginosa phage PaP3, complete genome
+>NC_004913.3 Stx1 converting phage DNA, complete genome
+>NC_004914.3 Stx2 converting phage II DNA, complete genome
+>NC_004813.1 Enterobacteria phage BP-4795, complete genome
+>NC_004456.1 Vibrio phage VHML, complete genome
+>NC_004775.2 Enterobacteria phage epsilon15, complete genome
+>NC_005841.1 Enterobacteria phage ST104 DNA, complete genome
+>NC_004777.1 Yersinia pestis phage phiA1122, complete genome
+>NC_004827.1 Bacteriophage Aaphi23, complete genome
+>NC_006820.1 Synechococcus phage S-PM2, complete genome
+>NC_049943.1 Enterobacteria phage 2851, complete genome
+>NC_006883.2 Prochlorococcus phage P-SSM2, complete genome
+>NC_005887.1 Burkholderia phage BcepC6B, complete genome
+>NC_005893.1 Lactobacillus phage phiAT3, complete genome
+>NC_007019.1 Streptococcus phage 2972, complete genome
+>NC_007052.1 Staphylococcus phage 42e, complete genome
+>NC_011802.1 Salmonella enterica bacteriophage SE1, complete genome
+>NC_007145.2 Burkholderia prophage phi52237, complete genome
+>NC_042060.1 Pseudomonas phage PA7, partial genome
+>NC_011976.1 Salmonella phage epsilon34, complete genome
+>NC_007497.1 Burkholderia phage Bcep176, complete genome
+>NC_008203.1 Mycobacterium phage Che12, complete genome
+>NC_009541.1 Propionibacterium phage PA6, complete genome
+>NC_008464.1 Stx2-converting phage 86, complete genome
+>NC_020878.1 Prochlorococcus phage P-GSP1 genomic sequence
+>NC_008296.2 Synechococcus phage syn9, complete genome
+>NC_011041.1 Escherichia coli bacteriophage rv5, complete sequence
+>NC_008721.2 Streptococcus phage SMP, complete genome
+>NC_009514.1 Phage cdtI DNA, complete genome
+>NC_009234.1 Burkholderia phage phiE202 chromosome, complete genome
+>NC_019768.1 Enterobacteria phage HK106, complete genome
+>NC_019769.1 Enterobacteria phage HK542, complete genome
+>NC_019767.1 Enterobacteria phage HK544, complete genome
+>NC_015282.1 Synechococcus phage S-SM1, complete genome
+>NC_015279.1 Synechococcus phage S-SM2, complete genome
+>NC_015288.1 Prochlorococcus phage Syn1, complete genome
+>NC_015283.1 Prochlorococcus phage P-RSM4, complete genome
+>NC_015285.1 Prochlorococcus phage Syn33, complete genome
+>NC_015281.1 Synechococcus phage S-ShM2, complete genome
+>NC_015289.1 Synechococcus phage S-SSM5, complete genome
+>NC_015287.1 Synechococcus phage S-SSM7, complete genome
+>NC_015290.1 Prochlorococcus phage P-SSM7, complete genome
+>NC_015284.1 Prochlorococcus phage P-HM2, complete genome
+>NC_009603.1 Microbacterium phage Min1, complete genome
+>NC_042057.1 Enterobacteria phage DE3, complete genome
+>NC_010237.1 Enterobacteria phage Min27, complete genome
+>NC_011104.1 Lactobacillus phage Lrm1, complete genome
+>NC_015454.1 Propionibacterium phage PAD20 endogenous virus, complete genome
+>NC_015453.1 Propionibacterium phage PAS50 endogenous virus, complete genome
+>NC_010807.1 Salmonella phage phiSG-JL2, complete genome
+>NC_011040.1 Enterobacteria phage BA14, complete genome
+>NC_011045.1 Enterobacteria phage 13a, complete genome
+>NC_011043.1 Klebsiella phage K11, complete genome
+>NC_021071.1 Cyanophage P-RSM1 genomic sequence
+>NC_020875.1 Cyanophage S-SSM4 genomic sequence
+>NC_021072.1 Cyanophage Syn30 genomic sequence
+>NC_010945.1 Streptococcus phage PH15, complete genome
+>NC_011273.1 Mycobacterium phage Myrna, complete genome
+>NC_013085.1 Synechococcus phage S-RSM4, complete genome
+>NC_011216.1 Burkholderia phage KS10, complete genome
+>NC_011357.1 Stx2-converting phage 1717, complete prophage genome
+>NC_011356.1 Enterobacteria phage YYZ-2008, complete prophage genome
+>NC_013059.1 Salmonella phage c341, complete genome
+>NC_027981.1 Vibrio phage VP58.5, complete genome
+>NC_012756.1 Streptococcus phage PH10, complete genome
+>NC_012753.1 Streptococcus phage 5093, complete genome
+>NC_015249.1 Enterobacteria phage 285P, complete genome
+>NC_013646.1 Enterococcus phage phiFL1A, complete genome
+>NC_013644.1 Enterococcus phage phiFL4A, complete genome
+>NC_013647.1 Klebsiella phage KP32, complete genome
+>NC_013597.1 Aggregatibacter phage S1249, complete sequence
+>NC_031242.1 Cyanophage S-RIM50 isolate RW_29_0704, complete genome
+>NC_023694.1 Rhodococcus phage ReqiPoco6, complete genome
+>NC_041898.1 Escherichia phage K1ind2, complete genome
+>NC_014662.1 Enterobacteria phage CC31, complete genome
+>NC_014900.1 Salmonella phage ST160, complete genome
+>NC_048033.1 Uncultured phage MedDCM-OCT-S05-C849 genomic sequence
+>NC_020837.1 Synechococcus phage S-CAM1 genomic sequence
+>NC_021530.1 Synechococcus phage S-CAM8 strain S-CAM8 06008BI06, complete genome
+>NC_020851.1 Synechococcus phage S-SKS1 genomic sequence
+>NC_020856.2 Sulfitobacter phage pCB2047-C, complete genome
+>NC_020858.2 Sulfitobacter phage pCB2047-A, complete genome
+>NC_020866.1 Rhodovulum phage RS1 genomic sequence
+>NC_027990.1 Lactobacillus phage LBR48, complete genome
+>NC_047733.1 Synechococcus phage S-RIM8 isolate RW_22_0300, complete genome
+>NC_027984.1 Stx2 converting phage vB_EcoP_24B, complete genome
+>NC_015271.1 Salmonella phage Vi06 complete sequence
+>NC_020859.1 Synechococcus phage S-RIM2 R1_1999, complete genome
+>NC_020486.1 Synechococcus phage S-RIM8 A.HR1, complete genome
+>NC_031019.1 Enterobacteria phage UAB_Phi20, complete genome
+>NC_016160.1 Escherichia phage HK75, complete genome
+>NC_016158.1 Escherichia phage HK639, complete genome
+>NC_015265.1 Burkholderia phage KS5, complete genome
+>NC_042058.1 Mycobacterium phage Wonder, complete genome
+>NC_019488.1 Salmonella phage RE-2010, complete genome
+>NC_028656.1 Enterobacteria phage VT2phi_272, complete sequence
+>NC_054978.1 Staphylococcus phage TEM126, complete sequence
+>NC_047854.1 Cronobacter phage ESSI-2, complete genome
+>NC_019932.1 Erwinia phage ENT90, complete genome
+>NC_019929.1 Erwinia phage phiEaH2, complete genome
+>NC_042328.1 Mycobacterium virus HelDan, complete genome
+>NC_041971.1 Mycobacterium phage Rey, complete genome
+>NC_042310.1 Mycobacterium virus JHC117, complete genome
+>NC_042311.1 Mycobacterium virus Microwolf, complete genome
+>NC_042036.1 Mycobacterium phage Rockstar, complete genome
+>NC_015719.1 Enterobacteria phage K30, complete genome
+>NC_048015.1 Cyanophage S-TIM4, complete genome
+>NC_018285.1 Streptococcus phage YMC-2011, complete genome
+>NC_023734.1 Psychrobacter phage Psymv2, complete genome
+>NC_023731.1 Mycobacterium phage Trixie, complete genome
+>NC_047867.1 Enterobacteria phage T7M, complete genome
+>NC_023719.1 Bacillus phage G, complete genome
+>NC_041970.1 Mycobacterium phage Bongo, complete genome
+>NC_023745.1 Mycobacterium virus LHTSCC, complete genome
+>NC_019501.1 Enterobacteria phage IME10, complete genome
+>NC_027402.1 Salmonella phage SPN3US, complete genome
+>NC_016072.1 Megavirus chiliensis, complete genome
+>NC_019442.1 Escherichia phage TL-2011c, complete genome
+>NC_016571.1 Pseudomonas phage OBP, complete genome
+>NC_047735.1 Bacillus phage BCU4, complete genome
+>NC_017985.1 Salmonella phage SPN9CC, complete genome
+>NC_019522.1 Pectobacterium phage ZF40, complete genome
+>NC_016762.1 Pseudomonas phage phi297, complete genome
+>NC_016765.1 Pseudomonas phage vB_PaeS_PMG1, complete genome
+>NC_020489.1 Rhodobacter phage RcapNL, complete genome
+>NC_019517.1 Enterobacteria phage vB_EcoM-FV3, complete genome
+>NC_019516.1 Cyanophage S-TIM5, complete genome
+>NC_019401.1 Cronobacter phage vB_CsaM_GAP32, complete genome
+>NC_019526.1 Enterobacteria phage vB_KleM-RaK2, complete genome
+>NC_019710.1 Enterobacteria phage HK140, complete genome
+>NC_019717.1 Enterobacteria phage HK225, complete genome
+>NC_019714.1 Enterobacteria phage HK446, complete genome
+>NC_019723.1 Enterobacteria phage HK630, complete genome
+>NC_019719.1 Enterobacteria phage HK633, complete genome
+>NC_019711.1 Enterobacteria phage HK629, complete genome
+>NC_019706.1 Enterobacteria phage mEp043 c-1, complete genome
+>NC_019708.1 Enterobacteria phage mEp235, complete genome
+>NC_019704.1 Enterobacteria phage mEp237, complete genome
+>NC_019716.1 Enterobacteria phage mEp460, complete genome
+>NC_019709.1 Enterobacteria phage mEpX1, complete genome
+>NC_019705.1 Enterobacteria phage mEpX2, complete genome
+>NC_019720.1 Enterobacterial phage mEp213, complete genome
+>NC_019715.1 Enterobacterial phage mEp234, complete genome
+>NC_049942.1 Escherichia phage JLK-2012, complete sequence
+>NC_018846.1 Escherichia phage P13374, complete genome
+>NC_018275.1 Salmonella phage vB_SemP_Emek, complete genome
+>NC_018279.1 Salmonella phage vB_SosS_Oslo, complete genome
+>NC_017968.1 Staphylococcus phage TEM123, complete genome
+>NC_021775.1 Salmonella phage FSL SP-031, complete genome
+>NC_017973.1 Mycobacterium phage SWU1, complete genome
+>NC_047939.1 Yersinia phage YpP-Y, complete sequence
+>NC_047940.1 Yersinia phage YpsP-G, complete sequence
+>NC_018843.1 Salmonella phage SSU5, complete genome
+>NC_027344.1 Salmonella phage STML-198, complete genome
+>NC_019919.2 Yersinia phage phiR201 complete genome
+>NC_024711.1 Uncultured crAssphage, complete genome
+>NC_027339.1 Enterobacteria phage SfI, complete genome
+>NC_049924.1 Stx2-converting phage Stx2a_F451 proviral DNA, complete genome
+>NC_049923.1 Stx2-converting phage Stx2a_WGPS9 proviral DNA, complete genome
+>NC_049941.1 Stx2-converting phage Stx2a_WGPS2 proviral DNA, complete genome
+>NC_049945.1 Stx2-converting phage Stx2a_WGPS6 proviral DNA, complete genome
+>NC_049944.1 Stx2-converting phage Stx2a_WGPS8 proviral DNA, complete genome
+>NC_019722.1 Vibrio phage vB_VpaM_MAR, complete genome
+>NC_018834.1 Propionibacterium phage P9.1, complete genome
+>NC_018839.1 Propionibacterium phage P14.4, complete genome
+>NC_018841.1 Propionibacterium phage P101A, complete genome
+>NC_018845.1 Propionibacterium phage P104A, complete genome
+>NC_018849.1 Propionibacterium phage P105, complete genome
+>NC_018852.1 Propionibacterium phage P100D, complete genome
+>NC_018838.1 Propionibacterium phage P100_A, complete genome
+>NC_018840.1 Propionibacterium phage P100_1, complete genome
+>NC_018842.1 Propionibacterium phage P1.1, complete genome
+>NC_018847.1 Propionibacterium phage ATCC29399B_T, complete genome
+>NC_018851.1 Propionibacterium phage ATCC29399B_C, complete genome
+>NC_019813.1 Pseudomonas phage vB_PaeP_p2-10_Or1, complete genome
+>NC_022336.1 Propionibacterium phage PHL010M04, complete genome
+>NC_022339.1 Propionibacterium phage PHL037M02, complete genome
+>NC_022338.1 Propionibacterium phage PHL060L00, complete genome
+>NC_022335.1 Propionibacterium phage PHL067M10, complete genome
+>NC_022337.1 Propionibacterium phage PHL071N05, complete genome
+>NC_022342.1 Propionibacterium phage PHL111M01, complete genome
+>NC_022334.1 Propionibacterium phage PHL112N00, complete genome
+>NC_022341.1 Propionibacterium phage PHL113M01, complete genome
+>NC_022340.1 Propionibacterium phage PHL114L00, complete genome
+>NC_019416.1 Stenotrophomonas phage IME15, complete genome
+>NC_022791.1 Streptococcus phage phiBHN167 complete genome
+>NC_020104.1 Acanthamoeba polyphaga moumouvirus, complete genome
+>NC_027364.1 Escherichia phage PBECO 4, complete genome
+>NC_047715.1 Cyanophage S-RIM12 isolate RW_01_0310, complete genome
+>NC_047716.1 Cyanophage S-RIM12 isolate RW_06_0310, complete genome
+>NC_047717.1 Cyanophage S-RIM12 isolate W1_08_0910, complete genome
+>NC_031235.1 Cyanophage S-RIM32 isolate RW_108_0702, complete genome
+>NC_047734.1 Cyanophage S-RIM44 isolate Np_42_0711, complete genome
+>NC_023006.1 Pseudomonas phage PPpW-3 DNA, complete sequence
+>NC_021867.1 Flavobacterium phage 6H, complete genome
+>NC_021299.1 Mycobacterium phage PegLeg, complete genome
+>NC_021338.1 Mycobacterium phage Chy4, complete genome
+>NC_021318.1 Mycobacterium phage Chy5, complete genome
+>NC_022323.1 Escherichia phage 2 JES-2013, complete genome
+>NC_048026.1 Synechococcus T7-like virus S-TIP37, complete genome
+>NC_023587.1 Synechococcus phage S-MbCM7, complete genome
+>NC_023584.1 Synechococcus phage S-MbCM100, complete genome
+>NC_029018.2 Mycobacterium phage Anubis, complete genome
+>NC_022058.1 Mycobacterium phage Adzzy, complete genome
+>NC_023503.1 Streptococcus phage 20617 complete prophage genome
+>NC_022749.1 Shigella phage SfIV, complete genome
+>NC_029120.1 Shigella phage 75/02 Stx, complete genome
+>NC_023579.1 Erwinia phage Ea9-2, complete genome
+>NC_023562.1 Mycobacterium phage BellusTerra, complete genome
+>NC_047743.1 Burkholderia phage Bp-AMP1 complete genome
+>NC_027399.1 Klebsiella phage K64-1 DNA, complete genome
+>NC_023577.1 Mycobacterium phage Obama12, complete genome
+>NC_026607.2 Salmonella phage STP4-a, complete genome
+>NC_024134.1 Escherichia phage vB_EcoM_FFH2, complete genome
+>NC_024361.1 Streptococcus phage DCC1738, complete sequence
+>NC_024357.1 Streptococcus phage K13, complete sequence
+>NC_024370.1 Streptococcus phage IC1, complete sequence
+>NC_023561.1 Enterobacter phage PG7, complete genome
+>NC_028660.1 Escherichia phage phi191, complete genome
+>NC_024141.1 Mycobacterium phage Kampy, complete genome
+>NC_025453.1 Enterococcus phage EFC-1, complete genome
+>NC_027130.1 Synechococcus phage ACG-2014b isolate Syn7803C100, complete genome
+>NC_047718.1 Synechococcus phage ACG-2014b isolate Syn7803C61, complete genome
+>NC_047719.1 Synechococcus phage ACG-2014b isolate Syn9311C4, complete genome
+>NC_026923.1 Synechococcus phage ACG-2014d isolate Syn7803C102, complete genome
+>NC_026928.1 Synechococcus phage ACG-2014e isolate Syn7803C2, complete genome
+>NC_026927.1 Synechococcus phage ACG-2014f isolate Syn7803C90, complete genome
+>NC_047713.1 Synechococcus phage ACG-2014f isolate Syn7803C8, complete genome
+>NC_047714.1 Synechococcus phage ACG-2014f isolate Syn7803US26, complete genome
+>NC_026924.1 Synechococcus phage ACG-2014g isolate Syn7803US105, complete genome
+>NC_027132.1 Synechococcus phage ACG-2014i isolate Syn7803US120, complete genome
+>NC_026926.1 Synechococcus phage ACG-2014j isolate Syn7803US103, complete genome
+>NC_027371.1 Propionibacterium phage Pacnes 2012-15, complete genome
+>NC_025434.1 Shigella phage POCJ13, complete genome
+>NC_024365.1 Pseudomonas phage phiPSA1, complete genome
+>NC_027336.1 Propionibacterium phage PHL009M11, complete genome
+>NC_027357.1 Propionibacterium phage PHL025M00, complete genome
+>NC_027373.1 Propionibacterium phage PHL030N00, complete genome
+>NC_027391.1 Propionibacterium phage PHL041M10, complete genome
+>NC_027400.1 Propionibacterium phage PHL055N00, complete genome
+>NC_027380.1 Propionibacterium phage PHL067M01, complete genome
+>NC_027333.1 Propionibacterium phage PHL070N00, complete genome
+>NC_027359.1 Propionibacterium phage PHL082M00, complete genome
+>NC_041955.1 Propionibacterium phage PHL082M03, complete genome
+>NC_027361.1 Propionibacterium phage PHL085N00, complete genome
+>NC_027385.1 Propionibacterium phage PHL092M00, complete genome
+>NC_027401.1 Propionibacterium phage PHL095N00, complete genome
+>NC_027362.1 Propionibacterium phage PHL116M00, complete genome
+>NC_027403.1 Propionibacterium phage PHL117M00, complete genome
+>NC_041956.1 Propionibacterium phage PHL117M01, complete genome
+>NC_027367.1 Propionibacterium phage PHL132N00, complete genome
+>NC_027389.1 Propionibacterium phage PHL141N00, complete genome
+>NC_027294.1 Propionibacterium phage PHL150M00, complete genome
+>NC_027347.1 Propionibacterium phage PHL151M00, complete genome
+>NC_041957.1 Propionibacterium phage PHL151N00, complete genome
+>NC_027386.1 Propionibacterium phage PHL152M00, complete genome
+>NC_027405.1 Propionibacterium phage PHL163M00, complete genome
+>NC_027346.1 Propionibacterium phage PHL171M01, complete genome
+>NC_027370.1 Propionibacterium phage PHL179M00, complete genome
+>NC_027392.1 Propionibacterium phage PHL194M00, complete genome
+>NC_027295.1 Propionibacterium phage PHL199M00, complete genome
+>NC_027354.1 Propionibacterium phage PHL301M00, complete genome
+>NC_027376.1 Propionibacterium phage PHL308M00, complete genome
+>NC_027334.1 Aurantimonas phage AmM-1 DNA, complete sequence
+>NC_027398.1 Enterobacteria phage Sf101, complete genome
+>NC_029046.1 Sinorhizobium phage phiLM21, complete genome
+>NC_027299.1 Sulfitobacter phage NYA-2014a, complete genome
+>NC_027387.1 Escherichia phage CICC 80001, complete genome
+>NC_025830.1 Escherichia phage Av-05, complete genome
+>NC_025451.1 Yersinia phage vB_YenP_AP5, complete genome
+>NC_028955.1 Prochlorococcus phage P-TIM68, complete genome
+>NC_031258.1 Salmonella phage BP12A, complete genome
+>NC_025447.1 Escherichia phage 121Q, complete genome
+>NC_029043.2 Mycobacterium phage SweetiePie, complete genome
+>NC_028877.1 Mycobacterium phage Larenn, complete genome
+>NC_027396.1 Streptococcus phage SpSL1, complete genome
+>NC_028962.1 Staphylococcus phage phiIPLA-C1C, complete genome
+>NC_028772.1 Enterobacter phage phiEap-1, complete genome
+>NC_028666.1 Streptococcus phage Str-PAP-1, complete genome
+>NC_028933.1 Pseudomonas phage PhiCHU, complete genome
+>NC_028768.1 Achromobacter phage JWX, complete genome
+>NC_028834.1 Achromobacter phage 83-24, complete genome
+>NC_042128.1 Escherichia phage RCS47, complete genome
+>NC_029009.1 Enterococcus phage EFDG1, complete genome
+>NC_028683.1 Edwardsiella phage PEi20 DNA, complete sequence
+>NC_028880.1 Citrobacter phage phiCFP-1, complete genome
+>NC_029102.1 Enterobacter phage E-2, complete genome
+>NC_028795.1 Enterobacter phage E-3, complete genome
+>NC_029008.1 Bacillus phage phi4J1, complete genome
+>NC_041868.1 Paracoccus phage Shpa, complete genome
+>NC_028696.2 Salmonella phage SEN22, complete genome
+>NC_047753.1 Salmonella phage SEN8, complete genome
+>NC_031936.1 Gordonia phage GAL1, complete genome
+>NC_030902.1 Gordonia phage GMA1, complete genome
+>NC_031005.2 Propionibacterium phage QueenBey, complete genome
+>NC_041954.1 Propionibacterium phage Keiki, complete genome
+>NC_027623.2 Propionibacterium phage Pirate, complete genome
+>NC_041869.1 Escherichia phage APCEc02, complete genome
+>NC_028449.1 Escherichia phage PA2, complete genome
+>NC_041935.1 Escherichia phage PA28, complete genome
+>NC_047755.1 Yersinia phage phiYe-F10, complete genome
+>NC_028977.1 Klebsiella phage vB_KpnP_KpV289, complete genome
+>NC_028685.1 Shigella phage Ss-VASD, complete genome
+>NC_041871.1 Escherichia phage Murica, complete genome
+>NC_042051.1 Streptomyces phage Aaronocolus, complete genome
+>NC_042052.1 Streptomyces phage Hydra, complete genome
+>NC_028890.1 Bacillus phage TsarBomba, complete genome
+>NC_028967.1 Propionibacterium phage PAC1, complete genome
+>NC_028695.2 Enterobacter phage phiEap-2, complete genome
+>NC_028688.1 Klebsiella phage vB_Kp1, complete genome
+>NC_031920.1 Streptococcus phage phiARI0004, complete genome
+>NC_031910.1 Streptococcus phage phiARI0031, complete genome
+>NC_031901.1 Streptococcus phage phiARI0131-1, complete genome
+>NC_031941.1 Streptococcus phage phiARI0131-2, complete genome
+>NC_031913.1 Streptococcus phage phiARI0460-1, complete genome
+>NC_031942.1 Streptococcus phage phiARI0462, complete genome
+>NC_031929.1 Streptococcus phage phiARI0468-1, complete genome
+>NC_031923.1 Streptococcus phage phiARI0468-2, complete genome
+>NC_031915.1 Streptococcus phage phiARI0468-4, complete genome
+>NC_031907.1 Streptococcus phage phiARI0746, complete genome
+>NC_030946.1 Streptococcus phage phiARI0923, complete genome
+>NC_028697.1 Streptococcus phage A25, complete genome
+>NC_028659.1 Klebsiella phage vB_KpnM_KB57, complete genome
+>NC_028248.1 Escherichia phage slur16, complete genome
+>NC_028694.1 Propionibacterium phage PA1-14, complete genome
+>NC_030940.1 Pseudomonas phage phi3, complete genome
+>NC_028687.1 Mycobacterium phage Iracema64, complete genome
+>NC_028657.1 Pseudomonas phage YMC11/02/R656, complete genome
+>NC_047761.1 Klebsiella phage vB_KpnP_IME205, complete genome
+>NC_031279.1 Mycobacterium phage Bactobuster, complete genome
+>NC_031911.1 Flavobacterium phage 1H, complete genome
+>NC_031926.1 Flavobacterium phage 2A, complete genome
+>NC_049925.1 Stx converting phage vB_EcoS_P27, complete genome
+>NC_049922.1 Stx converting phage vB_EcoS_ST2-8624, complete genome
+>NC_031066.1 Citrobacter phage SH1, complete genome
+>NC_031092.1 Citrobacter phage SH2, complete genome
+>NC_030919.1 Salmonella phage 118970_sal4, complete genome
+>NC_031918.1 Salmonella phage 64795_sal3, complete genome
+>NC_031940.1 Salmonella phage 118970_sal3, complete genome
+>NC_031946.1 Salmonella Phage 103203_sal5, complete genome
+>NC_041859.1 Flavobacterium phage 23T, complete genome
+>NC_031921.1 Flavobacterium phage Fpv5, complete genome
+>NC_031938.1 Flavobacterium phage Fpv6, complete genome
+>NC_031905.1 Flavobacterium phage Fpv7, complete genome
+>NC_031919.1 Flavobacterium phage Fpv8, complete genome
+>NC_031069.1 Streptococcus virus 9871, complete genome
+>NC_031094.1 Streptococcus virus 9872, complete genome
+>NC_047763.1 Streptococcus virus 9873, complete genome
+>NC_031023.1 Streptococcus virus 9874, complete genome
+>NC_031944.1 Synechococcus phage S-WAM1 isolate 0810PA09, complete genome
+>NC_031935.1 Synechococcus phage S-WAM2 isolate 0810PA29, complete genome
+>NC_031263.1 Mycobacterium phage EvilGenius, complete genome
+>NC_031114.1 Escherichia phage 64795_ec1, complete genome
+>NC_030942.1 Gordonia phage BritBrat, complete genome
+>NC_031020.1 Morganella phage vB_MmoM_MP1, complete genome
+>NC_047766.1 Escherichia phage ECA2, complete genome
+>NC_049920.1 Stx1 converting phage AU5Stx1, complete genome
+>NC_049921.1 Stx1 converting phage AU6Stx1, complete genome
+>NC_031068.2 Pectobacterium phage PP16, complete genome
+>NC_031924.1 Salmonella phage IME207, complete genome
+>NC_049383.1 Tenacibaculum phage pT24 DNA, complete genome
+>NC_047771.1 Klebsiella phage vB_KpnP_KpV763, complete genome
+>NC_031903.1 Synechococcus phage S-CAM22 isolate 1209TA19, complete genome
+>NC_055710.1 Synechococcus phage S-CAM22 isolate 0210CC35, complete genome
+>NC_031906.1 Synechococcus phage S-CAM3 isolate 1010CC42, complete genome
+>NC_031900.1 Synechococcus phage S-CAM4 isolate 0809SB33, complete genome
+>NC_031922.1 Synechococcus phage S-CAM9 isolate 1109NB16, complete genome
+>NC_031107.2 Erwinia phage vB_EamM_Asesino, complete genome
+>NC_031126.1 Erwinia phage vB_EamM_ChrisDB, complete genome
+>NC_031127.1 Erwinia phage vB_EamM_Huxley, complete genome
+>NC_042056.1 Erwinia phage vB_EamM_Machina, complete genome
+>NC_031120.1 Erwinia phage vB_EamM_Caitlin, complete genome
+>NC_055726.1 Cronobacter phage Pet-CM3-4 genome assembly, chromosome: I
+>NC_047774.1 Serratia phage SM9-3Y, complete genome
+>NC_054772.1 Mycobacterium phage BabyRay, complete genome
+>NC_041890.1 Propionibacterium phage Anatole, complete genome
+>NC_041891.1 Propionibacterium phage B22, complete genome
+>NC_041892.1 Propionibacterium phage B3, complete genome
+>NC_041894.1 Propionibacterium phage E6, complete genome
+>NC_041895.1 Propionibacterium phage G4, complete genome
+>NC_049378.1 Salmonella phage ST-W77, complete genome
+>NC_047781.1 Klebsiella phage vB_KpnP_BIS33, complete genome
+>NC_048656.1 Klebsiella phage vB_KpnM_BIS47, complete genome
+>NC_047875.1 Salmonella phage UPF_BP1, complete genome
+>NC_054796.1 Mycobacterium phage LeoAvram, complete genome
+>NC_047796.1 Enterococcus phage EFP01, complete genome
+>NC_048737.1 Lactobacillus phage BH1, complete genome
+>NC_042346.1 Salmonella virus BTP1 genome assembly, chromosome: BTP1
+>NC_047816.1 Ralstonia phage RS-PI-1, complete genome
+>NC_041937.1 Escherichia phage V18, complete genome
+>NC_049918.1 Escherichia phage ArgO145, complete genome
+>NC_055719.1 Synechococcus phage S-H35, complete genome
+>NC_054811.1 Mycobacterium phage Heffalump, complete genome
+>NC_054759.1 Mycobacterium phage PurpleHaze, complete genome
+>NC_048055.1 Curvibacter phage P26059B, complete genome
+>NC_047969.1 Klebsiella virus KP32 isolate 194, complete genome
+>NC_047970.1 Klebsiella virus KP32 isolate 195, complete genome
+>NC_047971.1 Klebsiella virus KP32 isolate 196, complete genome
+>NC_050154.1 Escherichia phage D6, complete genome
+>NC_049926.1 Escherichia phage ECP1, complete genome
+>NC_042009.1 Streptomyces phage NootNoot, complete genome
+>NC_042010.1 Streptomyces phage Paradiddles, complete genome
+>NC_042011.1 Streptomyces phage Peebs, complete genome
+>NC_042012.1 Streptomyces phage Samisti12, complete genome
+>NC_047838.1 Synechococcus phage Bellamy, complete genome
+>NC_047842.1 Klebsiella phage 2044-307w, complete genome
+>NC_047843.1 Leclercia phage 10164-302, complete genome
+>NC_047844.1 Serratia phage 2050H2, complete genome
+>NC_054812.1 Mycobacterium phage JoshKayV, complete genome
+>NC_054793.1 Mycobacterium phage Kimona, complete genome
+>NC_054714.1 Mycobacterium phage Phabba, complete genome
+>NC_047861.1 Bordetella phage vB_BbrM_PHB04, complete genome
+>NC_042081.1 Pseudomonas phage SL2, complete genome
+>NC_042044.1 Salmonella phage Melville, complete genome
+>NC_048680.1 Lactobacillus phage LJ, complete genome
+>NC_054795.1 Mycobacterium phage Cerulean, complete genome
+>NC_042084.1 Escherichia phage VB_EcoS-Golestan, complete genome
+>NC_042091.1 Pseudomonas phage nickie, complete genome
+>NC_042116.1 Yersinia phage fHe-Yen9-04 genome assembly, complete genome: monopartite
+>NC_048105.1 Salmonella phage BSP161, complete genome
+>NC_048682.1 Raoultella phage Ro1, complete genome
+>NC_054974.1 Staphylococcus phage HSA84, complete genome
+>NC_054662.1 Streptomyces phage Omar, complete genome
+>NC_048694.1 Klebsiella phage vB_Kpn_F48, complete genome
+>NC_047911.1 Faecalibacterium phage FP_Lagaffe, complete genome
+>NC_042103.1 Pseudomonas phage Bjorn, complete genome
+>NC_042107.1 Pseudomonas phage NV1, complete genome
+>NC_047942.1 Escherichia phage Ebrios, complete genome
+>NC_055761.1 Synechococcus virus S-PRM1, complete genome
+>NC_049919.1 Escherichia phage SH2026Stx1, complete genome
+>NC_055739.1 Enterobacter phage myPSH1140, complete genome
+>NC_047958.1 Burkholderia phage vB_BmuP_KL4, complete genome
+>NC_054773.1 Mycobacterium phage Pistachio, complete genome
+>NC_054637.1 Escherichia coli Phage vB_EcoS-Sa179lw, complete genome
+>NC_054809.1 Mycobacterium phage Fameo, complete genome
+>NC_048103.1 Pectobacterium phage PPWS2 DNA, complete genome
+>NC_055744.1 Synechococcus phage S-B64, complete genome
+>NC_049510.1 Erwinia phage phiEaP-8, complete genome
+>NC_050153.1 Escherichia phage vB_EcoM-Ro157c2YLVW, complete genome
+>NC_047974.1 Rhodococcus phage Jace, complete genome
+>NC_047984.1 Escherichia phage vB_EcoP_S523, complete genome
+>NC_048018.1 Gordonia phage Apricot, complete genome
+>NC_055751.1 Gordonia phage Danyall, complete genome
+>NC_048014.1 Klebsiella phage vB_KpnP_IME321, complete genome
+>NC_048049.1 Synechococcus phage S-T4, complete genome
+>NC_048004.1 Salmonella phage 3A_8767, complete genome
+>NC_049951.1 Enterobacteria phage O276, complete genome
+>NC_048129.1 Klebsiella phage KN1-1 DNA, complete genome
+>NC_048131.1 Klebsiella phage KN3-1 DNA, complete genome
+>NC_048721.1 Streptomyces phage StarPlatinum, complete genome
+>NC_048724.1 Streptomyces phage Karimac, complete genome
+>NC_048723.1 Streptomyces phage LukeCage, complete genome
+>NC_048730.1 Streptomyces phage Yaboi, complete genome
+>NC_048063.1 Escherichia phage LL2, complete genome
+>NC_048039.1 Gordonia phage Horus, complete genome
+>NC_048082.1 Enterobacteria phage vB_EcoP_IME390, complete genome
+>NC_048732.1 Klebsiella phage Seifer, complete genome
+>NC_048087.1 Enterococcus phage EfV12-phi1, complete genome
+>NC_048079.1 Escherichia phage C5, complete genome
+>NC_048078.1 Escherichia phage N30, complete genome
+>NC_048135.1 Enterobacter phage EcpYZU01, complete genome
+>NC_048741.1 Proteus phage Mydo, complete genome
+>NC_048102.1 Synechoccus phage S-P4, partial genome
+>NC_048114.1 Klebsiella phage kpssk3, complete genome
+>NC_048138.1 Klebsiella phage Henu1, complete genome
+>NC_048136.1 Escherichia phage vB_EcoP-Ro45lw, complete genome
+>NC_054814.1 Mycobacterium phage IronMan, complete genome
+>NC_054761.1 Mycobacterium phage Zetzy, complete genome
+>NC_054652.1 Klebsiella phage YX3973, complete genome
+>NC_049454.1 Klebsiella phage ST15-OXA48phi14.1, complete genome
+>NC_049453.1 Klebsiella phage ST13-OXA48phi12.1, complete genome
+>NC_049451.1 Klebsiella phage ST147-VIM1phi7.1, complete genome
+>NC_049448.1 Klebsiella phage ST437-OXA245phi4.1, complete genome
+>NC_051625.1 Mycobacterium Phage Niklas, complete genome
+>NC_055791.1 Streptomyces phage EGole, complete genome
+>NC_048163.1 Phage NC-A, complete genome
+>NC_048169.1 Gordonia phage BrutonGaster, complete genome
+>NC_054784.1 Mycobacterium phage Pharaoh, complete genome
+>NC_048180.1 Shigella phage VB_Ship_A7, complete genome
+>NC_048175.1 Klebsiella phage Pharr, complete genome
+>NC_048176.1 Gordonia phage GodonK, complete genome
+>NC_054973.1 Staphylococcus virus Baq_Sau1, partial genome
+>NC_048765.1 Vibrio phage VAP7, complete genome
+>NC_048798.1 Klebsiella phage Marfa, complete genome
+>NC_054976.1 Staphylococcus phage SAP33, complete genome
+>NC_055809.1 Streptomyces phage Evy, complete genome
+>NC_049917.1 Escherichia phage Lys12581Vzw, complete genome
+>NC_054760.1 Mycobacterium phage SoilDragon, complete genome
+>NC_054655.1 Streptomyces phage Celia, complete genome
+>NC_052985.1 Aeromonas phage LAh_7, complete genome
+>NC_055805.1 Gordonia phage RogerDodger, complete genome
+>NC_054727.1 Mycobacterium phage Phrappuccino, complete genome
+>NC_051739.1 Mycobacterium phage Purky, complete genome
+>NC_055813.1 Streptomyces phage Braelyn, complete genome
+>NC_048807.1 Erwinia phage pEp_SNUABM_01, complete genome
+>NC_049464.1 Serratia phage Muldoon, complete genome
+>NC_052984.1 Aeromonas phage vB_AhyS-A18P4, complete genome
+>NC_048816.1 Gordonia phage OhMyWard, complete genome
+>NC_055822.1 Streptomyces phage Daubenski, complete genome
+>NC_049478.1 Arthrobacter phage Mufasa8, complete genome
+>NC_048822.1 Gordonia phage Avazak, complete genome
+>NC_054807.1 Mycobacterium phage Bugsy, complete genome
+>NC_048828.1 Erwinia phage Hena1, complete genome
+>NC_001317.1 Escherichia phage 186, complete genome
+>NC_049952.1 Escherichia virus Lambda_2B8 genome assembly, chromosome: 1
+>NC_049954.1 Escherichia virus Lambda_2G7b genome assembly, chromosome: 1
+>NC_049946.1 Escherichia virus Lambda_4A7 genome assembly, chromosome: 1
+>NC_054815.1 Mycobacterium phage Phaded, complete genome
+>NC_054797.1 Mycobacterium phage Cintron, complete genome
+>NC_048832.1 Flavobacterium phage vB_FspS_hattifnatt9-1, complete genome
+>NC_048834.1 Flavobacterium phage vB_FspS_laban6-1, complete genome
+>NC_048835.1 Flavobacterium phage vB_FspS_lillamy9-1, complete genome
+>NC_048836.1 Flavobacterium phage vB_FspS_morran9-1, complete genome
+>NC_048839.1 Flavobacterium phage vB_FspS_sniff9-1, complete genome
+>NC_048840.1 Flavobacterium phage vB_FspS_snork6-1, complete genome
+>NC_048841.1 Flavobacterium phage vB_FspS_snusmum6-1, complete genome
+>NC_049494.1 Acinetobacter phage vB_AbaM_PhT2, complete genome
+>NC_049394.1 Escherichia phage ESSI2_ev129 genome assembly, chromosome: 1
+>NC_049395.1 Escherichia phage ESSI2_ev015 genome assembly, chromosome: 1
+>NC_048849.1 Enterobacter phage vB_EclM_CIP9, complete genome
+>NC_049342.1 Escherichia phage 500465-1, complete genome
+>NC_054965.1 Klebsiella phage LASTA, complete genome
+>NC_048873.1 Klebsiella virus KpS8, complete genome
+>NC_055842.1 Streptomyces phage Bmoc, complete genome
+>NC_054771.1 Mycobacterium phage MA5, complete genome
+>NC_049948.1 Escherichia phage Lambda_ev017 genome assembly, chromosome: 1
+>NC_049953.1 Escherichia phage Lambda_ev099 genome assembly, chromosome: 1
+>NC_049949.1 Escherichia phage Lambda_ev207 genome assembly, chromosome: 1
+>NC_049955.1 Escherichia phage Lambda_ev243 genome assembly, chromosome: 1
+>NC_054653.1 Klebsiella virus KpV2811, complete genome
+>NC_053516.1 Mycobacterium phage Reindeer, complete genome
+>NC_055864.1 Gordonia phage Love, complete genome
+>NC_054148.1 Burkholderia phage Mica, complete genome
+>NC_054649.1 Escherichia phage vB_EcoS_swi2, complete genome
+>NC_055890.1 CrAssphage cr56_1, complete genome
+>NC_055894.1 CrAssphage cr6_1, complete genome
+>NC_055898.1 CrAssphage cr115_1, complete genome
+>NC_055900.1 CrAssphage cr125_1, complete genome
+>NC_041878.1 Pectobacterium phage CBB, complete genome
+>NC_052986.1 Aeromonas phage BUCT551, complete genome
+>NC_054654.1 Klebsiella phage ZX4, complete genome
+>NC_018282.1 Pseudomonas phage MP1412, complete genome
+>NC_047879.1 Bordetella phage MW2, complete genome
+>NC_018452.1 Burkholderia phage DC1, complete genome
+>NC_009235.2 Burkholderia phage phi644-2, complete genome
+>NC_031129.1 Salmonella phage SJ46, complete genome
+>NC_012743.2 Burkholderia phage BcepIL02, complete genome
+>NC_019917.1 Burkholderia phage BcepMigl, complete genome
+>NC_025824.1 Escherichia phage fd strain 478, complete genome
+>NC_048647.1 Klebsiella phage KNP2 genomic sequence
+>NC_047881.1 Shigella phage SSP1, complete genome
+>NC_048214.1 Duck coronavirus isolate DK/GD/27/2014, complete genome
+>NC_014470.1 Bat coronavirus BM48-31/BGR/2008, complete genome
+>NC_048211.1 Wencheng Sm shrew coronavirus isolate Xingguo-74 ORF1ab polyprotein, spike glycoprotein, envelope protein, membrane protein, and nucleocapsid protein genes, complete cds
+>NC_009993.2 Mycobacterium phage Giles, complete genome
+>NC_060131.1 Gordonia phage Neville, complete genome
+>NC_060134.1 Gordonia phage Octobien14, complete genome
+>NC_060132.1 Gordonia phage Trax, complete genome
+>NC_060137.1 Gordonia phage Syleon, complete genome
+>NC_060135.1 Gordonia Phage Sephiroth, complete genome
+>NC_060136.1 Gordonia phage Kudefre, complete genome
+>NC_002371.2 Salmonella phage P22, complete genome
+>NC_008583.1 Staphylococcus phage phinm1, complete genome
+>NC_028913.1 Staphylococcus phage phinm2, complete genome
+>NC_061418.1 Klebsiella phage KpLz-2_45, complete genome
+>NC_061421.1 Klebsiella phage vB_KpM_FBKp24, complete genome
+>NC_028980.1 Pseudomonas phage PAE1, complete genome
+>NC_010353.1 Streptococcus phage 858, complete genome
+>NC_011023.1 Mycobacterium phage Pukovnik, complete genome
+>NC_013197.1 Thermus phage P23-77, complete genome
+>NC_013598.1 Streptococcus phage ALQ13.2, complete genome
+>NC_013645.1 Streptococcus phage Abc2, complete genome
+>NC_014460.1 Staphylococcus phage SAP-26, complete genome
+>NC_019405.1 Caulobacter phage phiCbK, complete genome
+>NC_019408.1 Caulobacter phage CcrRogue, complete genome
+>NC_019411.1 Caulobacter phage CcrSwift, complete genome
+>NC_062734.1 Synechococcus phage ACG-2014d isolate Syn7803C45, complete genome
+>NC_062736.1 Synechococcus phage ACG-2014e isolate Syn7803C85, complete genome
+>NC_062735.1 Synechococcus phage ACG-2014j isolate Syn7803US23, complete genome
+>NC_062581.1 Pseudomonas phage Psa21, complete genome
+>NC_062743.1 Flavobacterium phage vB_FspP_elemoC_14-1A, complete genome
+>NC_062741.1 Flavobacterium phage vB_FspP_elemoB_14-3B, complete genome
+>NC_062742.1 MAG: Dompiswa phage TSP7_1, complete genome
+>NC_062765.1 CrAss-like virus sp., complete genome
+>NC_062767.1 CrAss-like virus sp., complete genome
+>NC_062770.1 CrAss-like virus sp., complete genome
+>NC_062771.1 CrAss-like virus sp., complete genome
+>NC_062772.1 CrAss-like virus sp., complete genome
+>NC_062776.1 CrAss-like virus sp., complete genome
+>NC_062778.1 CrAss-like virus sp., complete genome
+>NC_062780.1 CrAss-like virus sp., complete genome
+>NC_012788.1 Mycobacterium phage Angel, complete genome
+>NC_021535.1 Mycobacterium phage Jobu08, complete genome
+>NC_024148.1 Mycobacterium phage Phantastic, complete genome
+>NC_028798.1 Mycobacterium phage MarQuardt, complete genome
+>NC_028794.1 Mycobacterium phage Piro94, complete genome
+>NC_028757.1 Mycobacterium phage Tiffany, complete genome
+>NC_028852.1 Mycobacterium phage Equemioh13, complete genome
+>NC_029098.1 Streptomyces phage Jay2Jay, complete genome
+>NC_031084.1 Propionibacterium phage BruceLethal, complete genome
+>NC_031119.1 Propionibacterium phage Enoki, complete genome
+>NC_031003.1 Propionibacterium phage Moyashi, complete genome
+>NC_027629.1 Propionibacterium phage Attacne, complete genome
+>NC_027625.1 Propionibacterium phage Kubed, complete genome
+>NC_027628.1 Propionibacterium phage Lauchelly, complete genome
+>NC_027620.1 Propionibacterium phage MrAK, complete genome
+>NC_027630.1 Propionibacterium phage Ouroboros, complete genome
+>NC_027626.1 Propionibacterium phage Procrass1, complete genome
+>NC_027624.1 Propionibacterium phage SKKY, complete genome
+>NC_027627.1 Propionibacterium phage Solid, complete genome
+>NC_027622.1 Propionibacterium phage Stormborn, complete genome
+>NC_027621.1 Propionibacterium phage Wizzo, complete genome
+>NC_028976.1 Streptomyces phage Izzy, complete genome
+>NC_028892.1 Streptomyces phage Caliburn, complete genome
+>NC_030917.1 Gordonia phage OneUp, complete genome
+>NC_031102.1 Mycobacterium phage Sneeze, complete genome
+>NC_023705.1 Mycobacterium phage Liefie, complete genome
+>NC_003157.5 Streptococcus phage phiNIH1.1, complete genome
