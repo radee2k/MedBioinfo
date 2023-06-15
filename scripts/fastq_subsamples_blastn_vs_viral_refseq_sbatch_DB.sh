@@ -50,29 +50,3 @@ srun --job-name=${accnum} blastn -num_threads ${SLURM_CPUS_PER_TASK} -query ${in
 
 
 echo END: `date`
-
-
-
-
-# this extracts the item number $SLURM_ARRAY_TASK_ID from the file of accnums
-# accnum=$(sed -n "$SLURM_ARRAY_TASK_ID"p ${accnum_file})
-# input_file="${datadir}/${accnum}.fastq"
-# alternatively, just extract the input file as the item number $SLURM_ARRAY_TASK_ID in the data dir listing
-# this alternative is less handy since we don't get hold of the isolated "accnum", which is very handy to name the srun step below :)
-# input_file=$(ls "${datadir}/*.fastq.gz" | sed -n ${SLURM_ARRAY_TASK_ID}p)
-
-# if the command below can't cope with compressed input
-# srun gunzip "${input_file}.gz"
-
-# because there are mutliple jobs running in // each output file needs to be made unique by post-fixing with $SLURM_ARRAY_TASK_ID and/or $accnum
-# output_file="${workdir}/ABCjob.${SLURM_ARRAY_TASK_ID}.${accnum}.out"
-
-#################################################################
-# Start work
-# srun --job-name=${accnum} some_abc_software --threads ${SLURM_CPUS_PER_TASK} --in ${input_file} --out ${output_file}
-
-#################################################################
-# Clean up (eg delete temp files, compress output, recompress input etc)
-# srun gzip ${input_file}
-#srun gzip ${output_file}
-
