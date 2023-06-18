@@ -48,8 +48,6 @@ srun  --job-name=${accnum} kraken2 --paired --threads ${SLURM_CPUS_PER_TASK} --d
 srun --job-name=${accnum}_rg_bracken bracken -d ${db} -i ${output_file}_report.tsv -o ${output_file}_bracken.tsv -w  ${output_file}_bracken_report.tsv
 
 
-
-
 # run krona on all the reports
 # cd /shared/ifbstor1/projects/2314_medbioinfo/radoslaw/MedBioinfo/analyses/krona
 
@@ -64,29 +62,3 @@ srun --job-name=${accnum}_rg_krona2 /shared/projects/2314_medbioinfo/kraken2/bin
 
 
 echo END: `date`
-
-
-
-
-# this extracts the item number $SLURM_ARRAY_TASK_ID from the file of accnums
-# accnum=$(sed -n "$SLURM_ARRAY_TASK_ID"p ${accnum_file})
-# input_file="${datadir}/${accnum}.fastq"
-# alternatively, just extract the input file as the item number $SLURM_ARRAY_TASK_ID in the data dir listing
-# this alternative is less handy since we don't get hold of the isolated "accnum", which is very handy to name the srun step below :)
-# input_file=$(ls "${datadir}/*.fastq.gz" | sed -n ${SLURM_ARRAY_TASK_ID}p)
-
-# if the command below can't cope with compressed input
-# srun gunzip "${input_file}.gz"
-
-# because there are mutliple jobs running in // each output file needs to be made unique by post-fixing with $SLURM_ARRAY_TASK_ID and/or $accnum
-# output_file="${workdir}/ABCjob.${SLURM_ARRAY_TASK_ID}.${accnum}.out"
-
-#################################################################
-# Start work
-# srun --job-name=${accnum} some_abc_software --threads ${SLURM_CPUS_PER_TASK} --in ${input_file} --out ${output_file}
-
-#################################################################
-# Clean up (eg delete temp files, compress output, recompress input etc)
-# srun gzip ${input_file}
-#srun gzip ${output_file}
-
